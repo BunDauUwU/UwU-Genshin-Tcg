@@ -1,0 +1,209 @@
+seed: 1713143197.0308113
+player0's characters: ['Fischl', 'Collei', 'Keqing']
+player1's characters: ['Mona', 'Ganyu', 'Keqing']
+player0's hand cards: ['Magic Guide', 'Sweet Madame', 'Leave It to Me!', 'Dawn Winery', 'Changing Shifts']
+player1's hand cards: ['Katheryne', 'Raven Bow', 'Thundering Penance', 'Strategize', 'Leave It to Me!']
+player0's redraw index: [0, 1]
+player1's redraw index: [1, 2]
+player0's hand cards: ['Leave It to Me!', 'Dawn Winery', 'Changing Shifts', 'Magic Guide', 'The Bestest Travel Companion!']
+player1's hand cards: ['Katheryne', 'Strategize', 'Leave It to Me!', 'Mondstadt Hash Brown', "Broken Rime's Echo"]
+player1's Mona use skill Illusory Torrent
+player0 choose active character Fischl
+player1 choose active character Mona
+player1 first
+round1 start
+player0's dices: ['PYRO', 'CRYO', 'CRYO', 'DENDRO', 'OMNI', 'GEO', 'CRYO', 'OMNI']
+player1's dices: ['PYRO', 'OMNI', 'DENDRO', 'OMNI', 'PYRO', 'CRYO', 'OMNI', 'PYRO']
+player1's reroll index: [0, 2, 4, 7]
+player1's dices: ['OMNI', 'OMNI', 'CRYO', 'OMNI', 'CRYO', 'HYDRO', 'PYRO', 'ELECTRO']
+player0's reroll index: [0, 1, 2, 3, 5, 6]
+player0's dices: ['OMNI', 'OMNI', 'ELECTRO', 'GEO', 'HYDRO', 'PYRO', 'ANEMO', 'DENDRO']
+player1 play card Katheryne
+player1's dices: ['OMNI', 'OMNI', 'CRYO', 'OMNI', 'CRYO', 'HYDRO']
+player1's hand cards: ['Strategize', 'Leave It to Me!', 'Mondstadt Hash Brown', "Broken Rime's Echo"]
+player1's Mona use skill Mirror Reflection of Doom
+player0 play card Dawn Winery
+player0's dices: ['OMNI', 'ELECTRO', 'GEO', 'HYDRO', 'PYRO', 'DENDRO']
+player0's hand cards: ['Leave It to Me!', 'Changing Shifts', 'Magic Guide', 'The Bestest Travel Companion!']
+player0 play card The Bestest Travel Companion!
+player0's dices: ['OMNI', 'ELECTRO', 'PYRO', 'DENDRO']
+player0's hand cards: ['Leave It to Me!', 'Changing Shifts', 'Magic Guide']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0's Fischl use skill Nightrider
+trigger Reflection_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+player1 play card Broken Rime's Echo
+player1's dices: ['OMNI']
+player1's hand cards: ['Strategize', 'Leave It to Me!', 'Mondstadt Hash Brown']
+player1 action round end
+player0 play card Changing Shifts
+player0's dices: ['PYRO', 'DENDRO', 'OMNI']
+player0's hand cards: ['Leave It to Me!', 'Magic Guide']
+player0 play card Leave It to Me!
+player0's dices: ['PYRO', 'DENDRO', 'OMNI']
+player0's hand cards: ['Magic Guide']
+trigger Changing Shifts_0, effect is {'effect_type': 'CHANGE_COST', 'effect_value': '-1'}
+trigger Leave It to Me!_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player0 change character from Fischl to Collei, it's fast action
+player0 action element_tuning, use card Magic Guide
+player0's dices: ['DENDRO', 'OMNI', 'DENDRO']
+player0's hand cards: []
+player0's Collei use skill Floral Brush
+player0 action round end
+trigger Reflection_1, effect is {'effect_type': 'HYDRO_DMG', 'effect_value': 1}
+trigger Catalyzing Field_0, effect is {'effect_type': 'DMG', 'effect_value': '+1'}
+trigger Oz_0, effect is {'effect_type': 'ELECTRO_DMG', 'effect_value': 1}
+round2 start
+player0's dices: ['GEO', 'PYRO', 'ELECTRO', 'GEO', 'DENDRO', 'PYRO', 'CRYO', 'DENDRO']
+player1's dices: ['ELECTRO', 'OMNI', 'CRYO', 'HYDRO', 'GEO', 'DENDRO', 'OMNI', 'GEO']
+player1's reroll index: [4, 5, 6, 7]
+player1's dices: ['ELECTRO', 'OMNI', 'CRYO', 'HYDRO', 'CRYO', 'ELECTRO', 'PYRO', 'HYDRO']
+player0's reroll index: [0, 1, 2, 3, 5, 6]
+player0's dices: ['DENDRO', 'DENDRO', 'HYDRO', 'PYRO', 'HYDRO', 'CRYO', 'ELECTRO', 'ELECTRO']
+player1 play card Favonius Cathedral
+player1's dices: ['ELECTRO', 'CRYO', 'HYDRO', 'CRYO', 'ELECTRO', 'HYDRO']
+player1's hand cards: ['Strategize', 'Leave It to Me!', 'Mondstadt Hash Brown', 'Changing Shifts']
+player1 play card Changing Shifts
+player1's dices: ['ELECTRO', 'CRYO', 'HYDRO', 'CRYO', 'ELECTRO', 'HYDRO']
+player1's hand cards: ['Strategize', 'Leave It to Me!', 'Mondstadt Hash Brown']
+player1 play card Leave It to Me!
+player1's dices: ['ELECTRO', 'CRYO', 'HYDRO', 'CRYO', 'ELECTRO', 'HYDRO']
+player1's hand cards: ['Strategize', 'Mondstadt Hash Brown']
+trigger Illusory Torrent_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+trigger Changing Shifts_0, effect is {'effect_type': 'CHANGE_COST', 'effect_value': '-1'}
+player1 change character from Mona to Ganyu, it's fast action
+player1 action element_tuning, use card Mondstadt Hash Brown
+player1's dices: ['ELECTRO', 'CRYO', 'CRYO', 'ELECTRO', 'HYDRO', 'CRYO']
+player1's hand cards: ['Strategize']
+player1 action element_tuning, use card Strategize
+player1's dices: ['ELECTRO', 'CRYO', 'CRYO', 'ELECTRO', 'CRYO', 'CRYO']
+player1's hand cards: []
+trigger Broken Rime's Echo_0, effect is {'effect_type': 'COST_CRYO', 'effect_value': '-1'}
+player1's Ganyu use skill Frostflake Arrow
+player1's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player0 play card Dawn Winery
+player0's dices: ['DENDRO', 'DENDRO', 'PYRO', 'CRYO', 'ELECTRO', 'ELECTRO']
+player0's hand cards: ['Katheryne']
+player0 play card Katheryne
+player0's dices: ['DENDRO', 'DENDRO', 'ELECTRO', 'ELECTRO']
+player0's hand cards: []
+player0's Collei use skill Supplicant's Bowmanship
+player1 action round end
+player0 action round end
+trigger Favonius Cathedral_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+trigger Catalyzing Field_0, effect is {'effect_type': 'DMG', 'effect_value': '+1'}
+trigger Oz_0, effect is {'effect_type': 'ELECTRO_DMG', 'effect_value': 1}
+round3 start
+player0's dices: ['PYRO', 'DENDRO', 'HYDRO', 'ANEMO', 'OMNI', 'GEO', 'PYRO', 'ANEMO']
+player1's dices: ['HYDRO', 'ELECTRO', 'HYDRO', 'GEO', 'HYDRO', 'DENDRO', 'HYDRO', 'DENDRO']
+player0's reroll index: [0, 2, 5, 6, 7]
+player0's dices: ['DENDRO', 'ANEMO', 'OMNI', 'PYRO', 'PYRO', 'DENDRO', 'PYRO', 'ELECTRO']
+player1's reroll index: [1, 3, 5, 7]
+player1's dices: ['HYDRO', 'HYDRO', 'HYDRO', 'HYDRO', 'CRYO', 'PYRO', 'OMNI', 'HYDRO']
+trigger Katheryne_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player1 change character from Ganyu to Mona, it's fast action
+player1's Mona use skill Mirror Reflection of Doom
+player0 play card When the Crane Returned
+player0's dices: ['DENDRO', 'OMNI', 'PYRO', 'PYRO', 'DENDRO', 'PYRO', 'ELECTRO']
+player0's hand cards: ['Sweet Madame']
+player0's Collei use skill Floral Brush
+trigger Reflection_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+player1's Mona use skill Ripple of Fate
+trigger When the Crane Returned_0, effect is {'effect_type': 'CHANGE_CHARACTER', 'effect_value': 1}
+player0 play card Sweet Madame
+player0's dices: ['PYRO', 'PYRO', 'PYRO', 'ELECTRO']
+player0's hand cards: []
+player0 action round end
+player1 action round end
+trigger Reflection_1, effect is {'effect_type': 'HYDRO_DMG', 'effect_value': 1}
+trigger Favonius Cathedral_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+round4 start
+player0's dices: ['PYRO', 'ANEMO', 'PYRO', 'ELECTRO', 'CRYO', 'ANEMO', 'HYDRO', 'ELECTRO']
+player1's dices: ['GEO', 'PYRO', 'HYDRO', 'ANEMO', 'HYDRO', 'CRYO', 'ELECTRO', 'CRYO']
+player1's reroll index: [0, 1, 3]
+player1's dices: ['HYDRO', 'HYDRO', 'CRYO', 'ELECTRO', 'CRYO', 'PYRO', 'CRYO', 'DENDRO']
+player0's reroll index: [0, 1, 2, 4, 5, 6]
+player0's dices: ['ELECTRO', 'ELECTRO', 'CRYO', 'ANEMO', 'HYDRO', 'GEO', 'DENDRO', 'PYRO']
+player0 play card Changing Shifts
+player0's dices: ['ELECTRO', 'ELECTRO', 'CRYO', 'ANEMO', 'HYDRO', 'GEO', 'DENDRO', 'PYRO']
+player0's hand cards: ['Strategize']
+trigger Changing Shifts_0, effect is {'effect_type': 'CHANGE_COST', 'effect_value': '-1'}
+trigger Katheryne_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player0 change character from Collei to Keqing, it's fast action
+player0 action element_tuning, use card Strategize
+player0's dices: ['ELECTRO', 'ELECTRO', 'ANEMO', 'HYDRO', 'GEO', 'DENDRO', 'PYRO', 'ELECTRO']
+player0's hand cards: []
+player0's Keqing use skill Stellar Restoration
+trigger Catalyzing Field_0, effect is {'effect_type': 'DMG', 'effect_value': '+1'}
+player1 action round end
+player0 action round end
+round5 start
+player0's dices: ['ELECTRO', 'CRYO', 'DENDRO', 'HYDRO', 'PYRO', 'CRYO', 'HYDRO', 'GEO']
+player1's dices: ['CRYO', 'PYRO', 'HYDRO', 'HYDRO', 'PYRO', 'ANEMO', 'PYRO', 'ELECTRO']
+player1's reroll index: [1, 2, 3, 4, 5, 6, 7]
+player1's dices: ['CRYO', 'DENDRO', 'PYRO', 'PYRO', 'DENDRO', 'DENDRO', 'PYRO', 'OMNI']
+player0's reroll index: [1, 2, 3, 4]
+player0's dices: ['ELECTRO', 'CRYO', 'HYDRO', 'GEO', 'CRYO', 'HYDRO', 'DENDRO', 'HYDRO']
+player1 play card Chang the Ninth
+player1's dices: ['CRYO', 'DENDRO', 'PYRO', 'PYRO', 'DENDRO', 'DENDRO', 'PYRO', 'OMNI']
+player1's hand cards: ["I Haven't Lost Yet!", 'Thundering Penance', 'Undivided Heart', 'Chang the Ninth', 'Mondstadt Hash Brown']
+player1 play card Chang the Ninth
+player1's dices: ['CRYO', 'DENDRO', 'PYRO', 'PYRO', 'DENDRO', 'DENDRO', 'PYRO', 'OMNI']
+player1's hand cards: ["I Haven't Lost Yet!", 'Thundering Penance', 'Undivided Heart', 'Mondstadt Hash Brown']
+player1 play card Mondstadt Hash Brown
+player1's dices: ['CRYO', 'PYRO', 'PYRO', 'DENDRO', 'DENDRO', 'PYRO', 'OMNI']
+player1's hand cards: ["I Haven't Lost Yet!", 'Thundering Penance', 'Undivided Heart']
+player1 action element_tuning, use card I Haven't Lost Yet!
+player1's dices: ['CRYO', 'PYRO', 'PYRO', 'DENDRO', 'PYRO', 'OMNI', 'CRYO']
+player1's hand cards: ['Thundering Penance', 'Undivided Heart']
+player1 action element_tuning, use card Thundering Penance
+player1's dices: ['CRYO', 'PYRO', 'PYRO', 'PYRO', 'OMNI', 'CRYO', 'CRYO']
+player1's hand cards: ['Undivided Heart']
+trigger Broken Rime's Echo_0, effect is {'effect_type': 'COST_CRYO', 'effect_value': '-1'}
+player1's Ganyu use skill Frostflake Arrow
+player1's Ganyu counter Frostflake Arrow change from 1 to 2trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player0 play card Chang the Ninth
+player0's dices: ['ELECTRO', 'CRYO', 'HYDRO', 'GEO', 'CRYO', 'HYDRO', 'DENDRO', 'HYDRO']
+player0's hand cards: ['Mushroom Pizza']
+player0 action element_tuning, use card Mushroom Pizza
+player0's dices: ['ELECTRO', 'CRYO', 'HYDRO', 'CRYO', 'HYDRO', 'DENDRO', 'HYDRO', 'ELECTRO']
+player0's hand cards: []
+player0 action round end
+player1 action round end
+round6 start
+player0's dices: ['CRYO', 'GEO', 'DENDRO', 'OMNI', 'GEO', 'ANEMO', 'CRYO', 'ELECTRO']
+player1's dices: ['GEO', 'GEO', 'HYDRO', 'HYDRO', 'ELECTRO', 'CRYO', 'ANEMO', 'CRYO']
+player1's reroll index: [0, 1, 2, 3, 4, 5, 6]
+player1's dices: ['CRYO', 'PYRO', 'DENDRO', 'GEO', 'OMNI', 'CRYO', 'OMNI', 'CRYO']
+player0's reroll index: [0, 1, 2, 3, 4, 5, 6]
+player0's dices: ['ELECTRO', 'OMNI', 'DENDRO', 'PYRO', 'HYDRO', 'ANEMO', 'ELECTRO', 'HYDRO']
+player0 play card Strategize
+player0's dices: ['ELECTRO', 'OMNI', 'DENDRO', 'PYRO', 'HYDRO', 'ELECTRO', 'HYDRO']
+player0's hand cards: ['Parametric Transformer']
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player0 play card The Bestest Travel Companion!
+player0's dices: ['ELECTRO', 'OMNI', 'DENDRO', 'ELECTRO', 'HYDRO']
+player0's hand cards: ['Parametric Transformer', 'Lotus Flower Crisp']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0 play card Lotus Flower Crisp
+player0's dices: ['ELECTRO', 'OMNI', 'DENDRO', 'ELECTRO', 'OMNI', 'OMNI']
+player0's hand cards: ['Parametric Transformer']
+player0's Keqing use skill Stellar Restoration
+trigger Catalyzing Field_0, effect is {'effect_type': 'DMG', 'effect_value': '+1'}
+player1 play card The Bestest Travel Companion!
+player1's dices: ['CRYO', 'PYRO', 'OMNI', 'CRYO', 'OMNI', 'CRYO']
+player1's hand cards: ['Undivided Heart', 'Dawn Winery']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player1 play card Dawn Winery
+player1's dices: ['CRYO', 'CRYO', 'OMNI', 'CRYO', 'OMNI', 'OMNI']
+player1's hand cards: ['Undivided Heart']
+trigger Broken Rime's Echo_0, effect is {'effect_type': 'COST_CRYO', 'effect_value': '-1'}
+player1's Ganyu use skill Frostflake Arrow
+player1's Ganyu counter Frostflake Arrow change from 2 to 3trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player0 action element_tuning, use card Parametric Transformer
+player0's dices: ['OMNI', 'OMNI', 'ELECTRO']
+player0's hand cards: []
+player0's Keqing use skill Stellar Restoration
+player1 action round end
+player0 action round end
+round7 start
+player0's dices: ['DENDRO', 'HYDRO', 'DENDRO', 'ANEMO', 'ELECTRO', 'CRYO', 'GEO', 'ANEMO']

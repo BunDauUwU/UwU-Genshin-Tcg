@@ -1,0 +1,39 @@
+seed: 1713281310.622742
+player0's characters: ['Ganyu', 'Diona', 'Sucrose']
+player1's characters: ['Ganyu', 'Diona', 'Sucrose']
+player0's hand cards: ['Jueyun Guoba', 'Send Off', "Adeptus' Temptation", "Calx's Arts", "Guardian's Oath"]
+player1's hand cards: ['Send Off', 'Northern Smoked Chicken', "Calx's Arts", 'Jueyun Guoba', 'Strategize']
+player0's redraw index: [1, 4]
+player1's redraw index: [0]
+player0's hand cards: ['Jueyun Guoba', "Adeptus' Temptation", "Calx's Arts", "Blessing of the Divine Relic's Installation", 'Minty Meat Rolls']
+player1's hand cards: ['Northern Smoked Chicken', "Calx's Arts", 'Jueyun Guoba', 'Strategize', "Guardian's Oath"]
+player0 choose active character Ganyu
+player1 choose active character Sucrose
+player0 first
+round1 start
+player0's dices: ['OMNI', 'ANEMO', 'DENDRO', 'ELECTRO', 'PYRO', 'DENDRO', 'DENDRO', 'HYDRO']
+player1's dices: ['GEO', 'HYDRO', 'PYRO', 'GEO', 'ELECTRO', 'ELECTRO', 'ANEMO', 'OMNI']
+player1's reroll index: [0, 1, 2, 3, 4, 5]
+player1's dices: ['ANEMO', 'OMNI', 'HYDRO', 'OMNI', 'HYDRO', 'OMNI', 'GEO', 'ELECTRO']
+player0's reroll index: [1, 2, 3, 4, 5, 6, 7]
+player0's dices: ['OMNI', 'ELECTRO', 'GEO', 'PYRO', 'GEO', 'ELECTRO', 'ELECTRO', 'DENDRO']
+player0 play card Adeptus' Temptation
+player0's dices: ['OMNI', 'ELECTRO', 'GEO', 'GEO', 'ELECTRO', 'ELECTRO']
+player0's hand cards: ['Jueyun Guoba', "Calx's Arts", "Blessing of the Divine Relic's Installation", 'Minty Meat Rolls']
+player0 action element_tuning, use card Minty Meat Rolls
+player0's dices: ['OMNI', 'GEO', 'GEO', 'ELECTRO', 'ELECTRO', 'CRYO']
+player0's hand cards: ['Jueyun Guoba', "Calx's Arts", "Blessing of the Divine Relic's Installation"]
+player0 action element_tuning, use card Jueyun Guoba
+player0's dices: ['OMNI', 'GEO', 'GEO', 'ELECTRO', 'CRYO', 'CRYO']
+player0's hand cards: ["Calx's Arts", "Blessing of the Divine Relic's Installation"]
+player0 action element_tuning, use card Calx's Arts
+player0's dices: ['OMNI', 'GEO', 'GEO', 'CRYO', 'CRYO', 'CRYO']
+player0's hand cards: ["Blessing of the Divine Relic's Installation"]
+player0 action element_tuning, use card Blessing of the Divine Relic's Installation
+player0's dices: ['OMNI', 'GEO', 'CRYO', 'CRYO', 'CRYO', 'CRYO']
+player0's hand cards: []
+player0's Ganyu use skill Frostflake Arrow
+player0's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player1's Sucrose use skill Wind Spirit Creation
+player0 action round end
+player1's Sucrose use skill Wind Spirit Creation

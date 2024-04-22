@@ -1,0 +1,19 @@
+seed: 1713279424.9248576
+player0's characters: ['Ganyu', 'Diona', 'Sucrose']
+player1's characters: ['Ganyu', 'Diona', 'Sucrose']
+player0's hand cards: ['Strategize', 'Mondstadt Hash Brown', 'Undivided Heart', 'Jueyun Guoba', 'Lotus Flower Crisp']
+player1's hand cards: ['Minty Meat Rolls', "Blessing of the Divine Relic's Installation", 'Strategize', 'Jueyun Guoba', 'Northern Smoked Chicken']
+player1's redraw index: []
+player0's redraw index: []
+player0's hand cards: ['Strategize', 'Mondstadt Hash Brown', 'Undivided Heart', 'Jueyun Guoba', 'Lotus Flower Crisp']
+player1's hand cards: ['Minty Meat Rolls', "Blessing of the Divine Relic's Installation", 'Strategize', 'Jueyun Guoba', 'Northern Smoked Chicken']
+player0 choose active character Ganyu
+player1 choose active character Sucrose
+player0 first
+round1 start
+player0's dices: ['CRYO', 'CRYO', 'GEO', 'OMNI', 'HYDRO', 'OMNI', 'GEO', 'HYDRO']
+player1's dices: ['ANEMO', 'CRYO', 'CRYO', 'OMNI', 'OMNI', 'GEO', 'HYDRO', 'OMNI']
+player0's reroll index: [2, 4, 6, 7]
+player0's dices: ['CRYO', 'CRYO', 'OMNI', 'OMNI', 'DENDRO', 'CRYO', 'DENDRO', 'OMNI']
+player1's reroll index: [1, 2, 5, 6]
+player1's dices: ['ANEMO', 'OMNI', 'OMNI', 'OMNI', 'DENDRO', 'DENDRO', 'ELECTRO', 'ELECTRO']

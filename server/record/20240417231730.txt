@@ -1,0 +1,74 @@
+seed: 1713370650.900409
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ["Broken Rime's Echo", 'Dawn Winery', 'Chang the Ninth', 'Wagner', "Calx's Arts"]
+player1's hand cards: ['Chang the Ninth', 'Changing Shifts', 'Dawn Winery', 'Favonius Cathedral', 'Timmie']
+player1's redraw index: []
+player0's redraw index: [0, 1, 2, 3, 4]
+player0's hand cards: ['Favonius Cathedral', 'Timmie', 'Dawn Winery', 'Toss-Up', 'Dawn Winery']
+player1's hand cards: ['Chang the Ninth', 'Changing Shifts', 'Dawn Winery', 'Favonius Cathedral', 'Timmie']
+player0 choose active character Xiangling
+player1 choose active character Xiangling
+player0 first
+round1 start
+player0's dices: ['ANEMO', 'HYDRO', 'GEO', 'OMNI', 'ANEMO', 'GEO', 'CRYO', 'CRYO']
+player1's dices: ['OMNI', 'CRYO', 'ELECTRO', 'ANEMO', 'PYRO', 'HYDRO', 'HYDRO', 'DENDRO']
+player1's reroll index: [1, 2, 3, 5, 6, 7]
+player1's dices: ['OMNI', 'PYRO', 'ELECTRO', 'OMNI', 'PYRO', 'ANEMO', 'ELECTRO', 'ELECTRO']
+player0's reroll index: [0, 1, 2, 4, 5, 6, 7]
+player0's dices: ['OMNI', 'ELECTRO', 'GEO', 'HYDRO', 'PYRO', 'ANEMO', 'DENDRO', 'PYRO']
+player0 play card Dawn Winery
+player0's dices: ['ELECTRO', 'GEO', 'HYDRO', 'PYRO', 'DENDRO', 'PYRO']
+player0's hand cards: ['Favonius Cathedral', 'Timmie', 'Toss-Up', 'Dawn Winery']
+player0 play card Favonius Cathedral
+player0's dices: ['ELECTRO', 'GEO', 'HYDRO', 'DENDRO']
+player0's hand cards: ['Timmie', 'Toss-Up', 'Dawn Winery']
+player0 play card Toss-Up
+player0's dices: ['ELECTRO', 'GEO', 'HYDRO', 'DENDRO']
+player0's hand cards: ['Timmie', 'Dawn Winery']
+player0's reroll index: [0, 1, 2, 3]
+player0's dices: ['CRYO', 'ELECTRO', 'HYDRO', 'OMNI']
+player0's reroll index: [0, 1, 2]
+player0's dices: ['OMNI', 'DENDRO', 'OMNI', 'DENDRO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0 play card Timmie
+player0's dices: ['OMNI', 'DENDRO', 'OMNI', 'DENDRO']
+player0's hand cards: ['Dawn Winery']
+player0's Timmie counter Pigeon change from 0 to 1trigger Timmie_0, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player0's Xiangling use skill Dough-Fu
+player1 play card Timmie
+player1's dices: ['OMNI', 'PYRO', 'ELECTRO', 'OMNI', 'PYRO', 'ANEMO', 'ELECTRO', 'ELECTRO']
+player1's hand cards: ['Chang the Ninth', 'Changing Shifts', 'Dawn Winery', 'Favonius Cathedral']
+player1's Timmie counter Pigeon change from 0 to 1trigger Timmie_0, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player1 play card Favonius Cathedral
+player1's dices: ['OMNI', 'PYRO', 'OMNI', 'PYRO', 'ANEMO', 'ELECTRO']
+player1's hand cards: ['Chang the Ninth', 'Changing Shifts', 'Dawn Winery']
+player1 play card Dawn Winery
+player1's dices: ['PYRO', 'OMNI', 'PYRO', 'ELECTRO']
+player1's hand cards: ['Chang the Ninth', 'Changing Shifts']
+player1 play card Chang the Ninth
+player1's dices: ['PYRO', 'OMNI', 'PYRO', 'ELECTRO']
+player1's hand cards: ['Changing Shifts']
+player1's Xiangling use skill Guoba Attack
+player0 action round end
+player1 action round end
+trigger Favonius Cathedral_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+trigger Favonius Cathedral_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+round2 start
+player0's Timmie counter Pigeon change from 1 to 2trigger Timmie_1, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player1's Timmie counter Pigeon change from 1 to 2trigger Timmie_1, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player0's dices: ['OMNI', 'ELECTRO', 'OMNI', 'ANEMO', 'CRYO', 'HYDRO', 'DENDRO', 'ANEMO']
+player1's dices: ['OMNI', 'PYRO', 'CRYO', 'GEO', 'HYDRO', 'ANEMO', 'ELECTRO', 'ELECTRO']
+player1's reroll index: [2, 3, 4, 5, 6, 7]
+player1's dices: ['OMNI', 'PYRO', 'OMNI', 'DENDRO', 'PYRO', 'CRYO', 'ELECTRO', 'OMNI']
+player0's reroll index: [1, 3, 4, 5, 6, 7]
+player0's dices: ['OMNI', 'OMNI', 'ANEMO', 'GEO', 'ANEMO', 'ELECTRO', 'HYDRO', 'ELECTRO']
+player0 play card The Bestest Travel Companion!
+player0's dices: ['OMNI', 'OMNI', 'ANEMO', 'ANEMO', 'ELECTRO', 'ELECTRO']
+player0's hand cards: ['Dawn Winery', 'Leave It to Me!']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0's Xiangling use skill Guoba Attack
+player1 play card Quick Knit
+player1's dices: ['OMNI', 'PYRO', 'OMNI', 'PYRO', 'CRYO', 'ELECTRO', 'OMNI']
+player1's hand cards: ['Changing Shifts', 'Paimon']

@@ -1,0 +1,30 @@
+seed: 1713273004.9920683
+player0's characters: ['Ganyu', 'Diona', 'Sucrose']
+player1's characters: ['Ganyu', 'Diona', 'Sucrose']
+player0's hand cards: ['Minty Meat Rolls', 'Lotus Flower Crisp', "Adeptus' Temptation", 'Lotus Flower Crisp', 'Mondstadt Hash Brown']
+player1's hand cards: ["Blessing of the Divine Relic's Installation", 'Strategize', "Guardian's Oath", 'Skyward Harp', 'Minty Meat Rolls']
+player1's redraw index: []
+player0's redraw index: [0, 1, 2, 3, 4]
+player0's hand cards: ["Guardian's Oath", 'Minty Meat Rolls', 'Minty Meat Rolls', "Calx's Arts", "Calx's Arts"]
+player1's hand cards: ["Blessing of the Divine Relic's Installation", 'Strategize', "Guardian's Oath", 'Skyward Harp', 'Minty Meat Rolls']
+player0 choose active character Sucrose
+player1 choose active character Ganyu
+player0 first
+round1 start
+player0's dices: ['DENDRO', 'CRYO', 'HYDRO', 'DENDRO', 'DENDRO', 'ELECTRO', 'OMNI', 'HYDRO']
+player1's dices: ['GEO', 'ANEMO', 'ELECTRO', 'ELECTRO', 'GEO', 'ANEMO', 'DENDRO', 'GEO']
+player1's reroll index: [0, 1, 2, 3, 4, 5, 6, 7]
+player1's dices: ['HYDRO', 'OMNI', 'ANEMO', 'OMNI', 'OMNI', 'DENDRO', 'OMNI', 'PYRO']
+player0's reroll index: [0, 1, 2, 3, 4, 5, 7]
+player0's dices: ['OMNI', 'ELECTRO', 'ANEMO', 'PYRO', 'HYDRO', 'CRYO', 'ELECTRO', 'HYDRO']
+player0 action element_tuning, use card Calx's Arts
+player0's dices: ['OMNI', 'ELECTRO', 'ANEMO', 'HYDRO', 'CRYO', 'ELECTRO', 'HYDRO', 'ANEMO']
+player0's hand cards: ["Guardian's Oath", 'Minty Meat Rolls', 'Minty Meat Rolls', "Calx's Arts"]
+player0's Sucrose use skill Astable Anemohypostasis Creation - 6308
+player1's Ganyu use skill Trail of the Qilin
+player0 play card Minty Meat Rolls
+player0's dices: ['HYDRO', 'CRYO', 'ELECTRO', 'HYDRO']
+player0's hand cards: ["Guardian's Oath", 'Minty Meat Rolls', "Calx's Arts"]
+player0 play card Calx's Arts
+player0's dices: ['HYDRO', 'CRYO', 'HYDRO']
+player0's hand cards: ["Guardian's Oath", 'Minty Meat Rolls']

@@ -1,0 +1,234 @@
+seed: 1713371735.7053134
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['Elemental Resonance Fervent Flames', 'Favonius Cathedral', 'Liben', 'Quick Knit', 'Katheryne']
+player1's hand cards: ['Dawn Winery', 'Blizzard Strayer', 'Changing Shifts', 'Quick Knit', 'Leave It to Me!']
+player1's redraw index: []
+player0's redraw index: []
+player0's hand cards: ['Elemental Resonance Fervent Flames', 'Favonius Cathedral', 'Liben', 'Quick Knit', 'Katheryne']
+player1's hand cards: ['Dawn Winery', 'Blizzard Strayer', 'Changing Shifts', 'Quick Knit', 'Leave It to Me!']
+player0 choose active character Xiangling
+player1 choose active character Xiangling
+player1 first
+round1 start
+player0's dices: ['CRYO', 'PYRO', 'ANEMO', 'ANEMO', 'ELECTRO', 'ANEMO', 'CRYO', 'ANEMO']
+player1's dices: ['OMNI', 'PYRO', 'ANEMO', 'OMNI', 'PYRO', 'DENDRO', 'OMNI', 'DENDRO']
+player0's reroll index: [0, 2, 3, 4, 5, 6, 7]
+player0's dices: ['PYRO', 'ELECTRO', 'GEO', 'CRYO', 'ELECTRO', 'PYRO', 'PYRO', 'ELECTRO']
+player1's reroll index: [2, 5, 7]
+player1's dices: ['OMNI', 'PYRO', 'OMNI', 'PYRO', 'OMNI', 'CRYO', 'ELECTRO', 'GEO']
+player1 play card Blizzard Strayer
+player1's dices: ['PYRO', 'PYRO', 'OMNI', 'CRYO', 'ELECTRO']
+player1's hand cards: ['Dawn Winery', 'Changing Shifts', 'Quick Knit', 'Leave It to Me!']
+player1 play card Dawn Winery
+player1's dices: ['PYRO', 'PYRO', 'CRYO']
+player1's hand cards: ['Changing Shifts', 'Quick Knit', 'Leave It to Me!']
+player1 action element_tuning, use card Quick Knit
+player1's dices: ['PYRO', 'PYRO', 'PYRO']
+player1's hand cards: ['Changing Shifts', 'Leave It to Me!']
+player1's Xiangling use skill Guoba Attack
+player0 play card Katheryne
+player0's dices: ['PYRO', 'CRYO', 'ELECTRO', 'PYRO', 'PYRO', 'ELECTRO']
+player0's hand cards: ['Elemental Resonance Fervent Flames', 'Favonius Cathedral', 'Liben', 'Quick Knit']
+player0 play card Liben
+player0's dices: ['PYRO', 'CRYO', 'ELECTRO', 'PYRO', 'PYRO', 'ELECTRO']
+player0's hand cards: ['Elemental Resonance Fervent Flames', 'Favonius Cathedral', 'Quick Knit']
+player0 play card Favonius Cathedral
+player0's dices: ['PYRO', 'CRYO', 'PYRO', 'PYRO']
+player0's hand cards: ['Elemental Resonance Fervent Flames', 'Quick Knit']
+player0's Xiangling use skill Guoba Attack
+player1 action round end
+player0 play card Quick Knit
+player0's dices: []
+player0's hand cards: ['Elemental Resonance Fervent Flames']
+player0 action round end
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+trigger Favonius Cathedral_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+round2 start
+player0's dices: ['OMNI', 'ANEMO', 'HYDRO', 'PYRO', 'PYRO', 'OMNI', 'ELECTRO', 'DENDRO']
+trigger Blizzard Strayer_1, effect is {'effect_type': 'FIXED_DICE', 'effect_value': ['CRYO', 'CRYO']}
+player1's dices: ['CRYO', 'CRYO', 'CRYO', 'ANEMO', 'GEO', 'CRYO', 'GEO', 'PYRO']
+player1's reroll index: [0, 1, 2, 3, 4, 5, 6]
+player1's dices: ['PYRO', 'PYRO', 'OMNI', 'DENDRO', 'ANEMO', 'HYDRO', 'DENDRO', 'ANEMO']
+player0's reroll index: [1, 2, 6, 7]
+player0's dices: ['OMNI', 'PYRO', 'PYRO', 'OMNI', 'HYDRO', 'HYDRO', 'OMNI', 'CRYO']
+player1 play card Favonius Cathedral
+player1's dices: ['PYRO', 'PYRO', 'OMNI', 'ANEMO', 'HYDRO', 'ANEMO']
+player1's hand cards: ['Changing Shifts', 'Leave It to Me!', 'The Bestest Travel Companion!']
+player1's Xiangling use skill Guoba Attack
+player0 play card Paimon
+player0's dices: ['PYRO', 'PYRO', 'OMNI', 'OMNI', 'CRYO']
+player0's hand cards: ['Elemental Resonance Fervent Flames', 'Quick Knit']
+player0 play card Quick Knit
+player0's dices: ['PYRO', 'PYRO', 'OMNI', 'OMNI']
+player0's hand cards: ['Elemental Resonance Fervent Flames']
+player0's Xiangling use skill Guoba Attack
+player1 play card The Bestest Travel Companion!
+player1's dices: ['ANEMO']
+player1's hand cards: ['Changing Shifts', 'Leave It to Me!']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player1 play card Leave It to Me!
+player1's dices: ['ANEMO', 'OMNI', 'OMNI']
+player1's hand cards: ['Changing Shifts']
+player1 play card Changing Shifts
+player1's dices: ['ANEMO', 'OMNI', 'OMNI']
+player1's hand cards: []
+trigger Leave It to Me!_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+trigger Changing Shifts_0, effect is {'effect_type': 'CHANGE_COST', 'effect_value': '-1'}
+player1 change character from Xiangling to Ganyu, it's fast action
+trigger Blizzard Strayer_0, effect is {'effect_type': 'COST_CRYO', 'effect_value': '-1'}
+player1's Ganyu use skill Trail of the Qilin
+player0 action round end
+player1 action round end
+trigger Ice Lotus_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+trigger Favonius Cathedral_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+trigger Favonius Cathedral_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+round3 start
+trigger Paimon_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0's dices: ['OMNI', 'OMNI', 'PYRO', 'HYDRO', 'DENDRO', 'DENDRO', 'PYRO', 'ANEMO', 'ELECTRO', 'HYDRO']
+trigger Blizzard Strayer_1, effect is {'effect_type': 'FIXED_DICE', 'effect_value': ['CRYO', 'CRYO']}
+player1's dices: ['CRYO', 'CRYO', 'ANEMO', 'HYDRO', 'PYRO', 'ANEMO', 'HYDRO', 'ELECTRO']
+player1's reroll index: [2, 3, 4, 5, 6, 7]
+player1's dices: ['CRYO', 'CRYO', 'HYDRO', 'DENDRO', 'DENDRO', 'PYRO', 'DENDRO', 'HYDRO']
+player0's reroll index: [3, 4, 5, 7, 8, 9]
+player0's dices: ['OMNI', 'OMNI', 'PYRO', 'PYRO', 'ELECTRO', 'PYRO', 'DENDRO', 'GEO', 'OMNI', 'ELECTRO']
+player0's Xiangling use skill Pyronado
+trigger Ice Lotus_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+player1 play card Chang the Ninth
+player1's dices: ['CRYO', 'CRYO', 'HYDRO', 'DENDRO', 'DENDRO', 'PYRO', 'DENDRO', 'HYDRO']
+player1's hand cards: ['Chang the Ninth']
+player1 action element_tuning, use card Chang the Ninth
+player1's dices: ['CRYO', 'CRYO', 'DENDRO', 'DENDRO', 'PYRO', 'DENDRO', 'HYDRO', 'CRYO']
+player1's hand cards: []
+trigger Blizzard Strayer_0, effect is {'effect_type': 'COST_CRYO', 'effect_value': '-1'}
+player1's Ganyu use skill Liutian Archery
+player1's Chang the Ninth counter Inspiration change from 0 to 1trigger Chang the Ninth_0, effect is {'effect_type': 'Inspiration', 'effect_value': '+1'}
+player0 play card Leave It to Me!
+player0's dices: ['OMNI', 'ELECTRO', 'DENDRO', 'GEO', 'OMNI', 'ELECTRO']
+player0's hand cards: ['Elemental Resonance Fervent Flames', 'Favonius Cathedral']
+trigger Leave It to Me!_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player0 change character from Xiangling to Ganyu, it's fast action
+player0 action element_tuning, use card Favonius Cathedral
+player0's dices: ['OMNI', 'ELECTRO', 'OMNI', 'ELECTRO', 'CRYO']
+player0's hand cards: ['Elemental Resonance Fervent Flames']
+player0's Ganyu use skill Trail of the Qilin
+player1's Ganyu use skill Trail of the Qilin
+trigger Ice Lotus_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+player0 action round end
+player1 action round end
+trigger Ice Lotus_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+trigger Ice Lotus_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+trigger Favonius Cathedral_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+round4 start
+trigger Paimon_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0's dices: ['OMNI', 'OMNI', 'GEO', 'GEO', 'ANEMO', 'DENDRO', 'HYDRO', 'ELECTRO', 'GEO', 'GEO']
+trigger Blizzard Strayer_1, effect is {'effect_type': 'FIXED_DICE', 'effect_value': ['CRYO', 'CRYO']}
+player1's dices: ['CRYO', 'CRYO', 'DENDRO', 'ANEMO', 'HYDRO', 'ELECTRO', 'ANEMO', 'CRYO']
+player1's reroll index: [2, 3, 4, 5, 6]
+player1's dices: ['CRYO', 'CRYO', 'CRYO', 'PYRO', 'HYDRO', 'PYRO', 'ELECTRO', 'GEO']
+player0's reroll index: [2, 3, 4, 5, 6, 7, 8, 9]
+player0's dices: ['OMNI', 'OMNI', 'GEO', 'PYRO', 'HYDRO', 'OMNI', 'DENDRO', 'GEO', 'DENDRO', 'ANEMO']
+player0 play card Paimon
+player0's dices: ['OMNI', 'PYRO', 'HYDRO', 'OMNI', 'DENDRO', 'DENDRO', 'ANEMO']
+player0's hand cards: ['Elemental Resonance Fervent Flames', "Calx's Arts"]
+trigger Katheryne_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player0 change character from Ganyu to Bennett, it's fast action
+player0's Bennett use skill Passion Overload
+trigger Ice Lotus_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+player1 action round end
+player0 action round end
+round5 start
+trigger Paimon_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0's dices: ['OMNI', 'OMNI', 'ELECTRO', 'OMNI', 'ANEMO', 'DENDRO', 'ANEMO', 'OMNI', 'ELECTRO', 'OMNI']
+trigger Blizzard Strayer_1, effect is {'effect_type': 'FIXED_DICE', 'effect_value': ['CRYO', 'CRYO']}
+player1's dices: ['CRYO', 'CRYO', 'GEO', 'OMNI', 'OMNI', 'HYDRO', 'CRYO', 'GEO']
+player1's reroll index: [2, 5, 7]
+player1's dices: ['CRYO', 'CRYO', 'OMNI', 'OMNI', 'CRYO', 'OMNI', 'CRYO', 'DENDRO']
+player0's reroll index: [2, 4, 5, 6, 8]
+player0's dices: ['OMNI', 'OMNI', 'OMNI', 'OMNI', 'OMNI', 'ELECTRO', 'ANEMO', 'HYDRO', 'PYRO', 'ELECTRO']
+player1 play card Sacrificial Sword
+player1's dices: ['CRYO', 'CRYO', 'CRYO', 'OMNI', 'CRYO']
+player1's hand cards: ["Calx's Arts", 'Timmie', 'The Bestest Travel Companion!']
+player1 play card Timmie
+player1's dices: ['CRYO', 'CRYO', 'CRYO', 'OMNI', 'CRYO']
+player1's hand cards: ["Calx's Arts", 'The Bestest Travel Companion!']
+player1's Timmie counter Pigeon change from 0 to 1trigger Timmie_0, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+trigger Blizzard Strayer_0, effect is {'effect_type': 'COST_CRYO', 'effect_value': '-1'}
+player1's Ganyu use skill Frostflake Arrow
+player1's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player0 play card Changing Shifts
+player0's dices: ['OMNI', 'OMNI', 'OMNI', 'OMNI', 'OMNI', 'ELECTRO', 'ANEMO', 'HYDRO', 'PYRO', 'ELECTRO']
+player0's hand cards: ['Elemental Resonance Fervent Flames', "Calx's Arts", 'The Bestest Travel Companion!']
+trigger Changing Shifts_0, effect is {'effect_type': 'CHANGE_COST', 'effect_value': '-1'}
+trigger Katheryne_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player0 change character from Bennett to Ganyu, it's fast action
+player0's Ganyu use skill Frostflake Arrow
+player0's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player1 action round end
+player0 play card The Bestest Travel Companion!
+player0's dices: ['ELECTRO', 'PYRO', 'ELECTRO']
+player0's hand cards: ['Elemental Resonance Fervent Flames', "Calx's Arts"]
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0 change character from Ganyu to Bennett, it's combat action
+player0 action round end
+round6 start
+trigger Paimon_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player1's Timmie counter Pigeon change from 1 to 2trigger Timmie_1, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player0's dices: ['OMNI', 'OMNI', 'GEO', 'HYDRO', 'HYDRO', 'ANEMO', 'HYDRO', 'PYRO', 'ELECTRO', 'DENDRO']
+trigger Blizzard Strayer_1, effect is {'effect_type': 'FIXED_DICE', 'effect_value': ['CRYO', 'CRYO']}
+player1's dices: ['CRYO', 'CRYO', 'DENDRO', 'DENDRO', 'OMNI', 'CRYO', 'GEO', 'DENDRO']
+player1's reroll index: [2, 6, 7]
+player1's dices: ['CRYO', 'CRYO', 'DENDRO', 'OMNI', 'CRYO', 'DENDRO', 'OMNI', 'ELECTRO']
+player0's reroll index: [2, 3, 4, 5, 6, 8, 9]
+player0's dices: ['OMNI', 'OMNI', 'PYRO', 'GEO', 'PYRO', 'GEO', 'HYDRO', 'PYRO', 'PYRO', 'ANEMO']
+player1 play card Liben
+player1's dices: ['CRYO', 'CRYO', 'DENDRO', 'OMNI', 'CRYO', 'DENDRO', 'OMNI', 'ELECTRO']
+player1's hand cards: ["Calx's Arts", 'The Bestest Travel Companion!', 'Toss-Up']
+trigger Blizzard Strayer_0, effect is {'effect_type': 'COST_CRYO', 'effect_value': '-1'}
+player1's Ganyu use skill Celestial Shower
+player0 play card Calx's Arts
+player0's dices: ['OMNI', 'OMNI', 'PYRO', 'PYRO', 'GEO', 'HYDRO', 'PYRO', 'PYRO', 'ANEMO']
+player0's hand cards: ['Elemental Resonance Fervent Flames', "Calx's Arts", 'Leave It to Me!']
+player0's Bennett use skill Fantastic Voyage
+player1 play card The Bestest Travel Companion!
+player1's dices: ['DENDRO', 'OMNI', 'DENDRO', 'OMNI']
+player1's hand cards: ["Calx's Arts", 'Toss-Up']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player1's Xiangling use skill Pyronado
+player0 play card Leave It to Me!
+player0's dices: ['OMNI', 'OMNI', 'GEO', 'HYDRO', 'ANEMO']
+player0's hand cards: ['Elemental Resonance Fervent Flames', "Calx's Arts"]
+trigger Leave It to Me!_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player0 change character from Bennett to Xiangling, it's fast action
+player0's Xiangling use skill Dough-Fu
+player1's Chang the Ninth counter Inspiration change from 1 to 2trigger Chang the Ninth_1, effect is {'effect_type': 'Inspiration', 'effect_value': '+1'}
+trigger Inspiration Field_1, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+player1 action round end
+player0 action round end
+trigger Sacred Cryo Pearl_0, effect is {'effect_type': 'CRYO_DMG', 'effect_value': 1}
+trigger Sacred Cryo Pearl_1, effect is {'effect_type': 'PIERCE_DMG', 'effect_value': 1}
+round7 start
+player1's Timmie counter Pigeon change from 2 to 3trigger Timmie_1, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+trigger Timmie_2, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 1}
+trigger Timmie_3, effect is {'effect_type': 'APPEND_DICE', 'effect_value': 'OMNI'}
+player0's dices: ['HYDRO', 'OMNI', 'GEO', 'CRYO', 'GEO', 'ELECTRO', 'DENDRO', 'GEO']
+player1's dices: ['OMNI', 'GEO', 'ANEMO', 'GEO', 'CRYO', 'HYDRO', 'ELECTRO', 'ELECTRO', 'ANEMO']
+player1's reroll index: [1, 2, 3, 4, 5, 6, 7, 8]
+player1's dices: ['OMNI', 'DENDRO', 'OMNI', 'ANEMO', 'HYDRO', 'ANEMO', 'DENDRO', 'ELECTRO', 'PYRO']
+player0's reroll index: [0, 2, 3, 4, 5, 6, 7]
+player0's dices: ['OMNI', 'DENDRO', 'HYDRO', 'CRYO', 'OMNI', 'GEO', 'OMNI', 'CRYO']
+trigger Dawn Winery_0, effect is {'effect_type': 'CHANGE_COST', 'effect_value': '-1'}
+player1 change character from Xiangling to Bennett, it's combat action
+player0 play card Chang the Ninth
+player0's dices: ['OMNI', 'DENDRO', 'HYDRO', 'CRYO', 'OMNI', 'GEO', 'OMNI', 'CRYO']
+player0's hand cards: ['Elemental Resonance Fervent Flames', "Calx's Arts", 'The Bestest Travel Companion!']
+player0's Xiangling use skill Guoba Attack
+trigger Inspiration Field_1, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+player1 play card Wagner
+player1's dices: ['OMNI', 'OMNI', 'ANEMO', 'HYDRO', 'ANEMO', 'PYRO']
+player1's hand cards: ["Calx's Arts", 'Toss-Up', 'Paimon', 'Dawn Winery']

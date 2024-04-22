@@ -1,0 +1,5 @@
+seed: 1713370613.8029265
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['Changing Shifts', 'Paimon', 'Changing Shifts', 'Changing Shifts', 'Quick Knit']
+player1's hand cards: ['Quick Knit', 'Timmie', 'Katheryne', 'The Bestest Travel Companion!', "Calx's Arts"]

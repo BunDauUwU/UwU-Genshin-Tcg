@@ -1,0 +1,26 @@
+seed: 1713371245.643723
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['The Bestest Travel Companion!', 'The Bestest Travel Companion!', 'Katheryne', 'Quick Knit', 'Dawn Winery']
+player1's hand cards: ['Elemental Resonance Fervent Flames', 'Favonius Cathedral', "Calx's Arts", 'Sacrificial Sword', 'The Bestest Travel Companion!']
+player1's redraw index: []
+player0's redraw index: []
+player0's hand cards: ['The Bestest Travel Companion!', 'The Bestest Travel Companion!', 'Katheryne', 'Quick Knit', 'Dawn Winery']
+player1's hand cards: ['Elemental Resonance Fervent Flames', 'Favonius Cathedral', "Calx's Arts", 'Sacrificial Sword', 'The Bestest Travel Companion!']
+player0 choose active character Xiangling
+player1 choose active character Bennett
+player0 first
+round1 start
+player0's dices: ['OMNI', 'ELECTRO', 'GEO', 'OMNI', 'OMNI', 'DENDRO', 'PYRO', 'ANEMO']
+player1's dices: ['PYRO', 'HYDRO', 'HYDRO', 'OMNI', 'DENDRO', 'ANEMO', 'CRYO', 'HYDRO']
+player1's reroll index: [1, 2, 4, 5, 6, 7]
+player1's dices: ['PYRO', 'OMNI', 'OMNI', 'ELECTRO', 'PYRO', 'ELECTRO', 'DENDRO', 'PYRO']
+player0's reroll index: [1, 2, 5, 7]
+player0's dices: ['OMNI', 'OMNI', 'OMNI', 'PYRO', 'ELECTRO', 'ANEMO', 'GEO', 'ANEMO']
+player0 play card Katheryne
+player0's dices: ['OMNI', 'OMNI', 'OMNI', 'PYRO', 'ANEMO', 'ANEMO']
+player0's hand cards: ['The Bestest Travel Companion!', 'The Bestest Travel Companion!', 'Quick Knit', 'Dawn Winery']
+player0 play card Dawn Winery
+player0's dices: ['OMNI', 'OMNI', 'OMNI', 'PYRO']
+player0's hand cards: ['The Bestest Travel Companion!', 'The Bestest Travel Companion!', 'Quick Knit']
+player0's Xiangling use skill Guoba Attack

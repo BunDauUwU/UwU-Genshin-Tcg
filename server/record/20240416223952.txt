@@ -1,0 +1,10 @@
+seed: 1713281992.7117093
+player0's characters: ['Ganyu', 'Bennett', 'Xiangling']
+player1's characters: ['Klee', 'Xingqiu', 'Mona']
+player0's hand cards: ['Grand Expectation', 'Toss-Up', 'Toss-Up', 'Mondstadt Hash Brown', 'Strategize']
+player1's hand cards: ['The Bestest Travel Companion!', 'Paimon', 'Timmie', 'Chang the Ninth', "Adeptus' Temptation"]
+player0's redraw index: []
+player1's redraw index: []
+player0's hand cards: ['Grand Expectation', 'Toss-Up', 'Toss-Up', 'Mondstadt Hash Brown', 'Strategize']
+player1's hand cards: ['The Bestest Travel Companion!', 'Paimon', 'Timmie', 'Chang the Ninth', "Adeptus' Temptation"]
+player1's Mona use skill Illusory Torrent

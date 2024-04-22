@@ -1,0 +1,169 @@
+seed: 1713284014.4458318
+player0's characters: ['Klee', 'Mona', 'Xingqiu']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['Strategize', "Adeptus' Temptation", 'Katheryne', 'Mondstadt Hash Brown', 'Liben']
+player1's hand cards: ['Dawn Winery', "Calx's Arts", 'Paimon', 'Quick Knit', 'Raven Bow']
+player1's redraw index: []
+player0's redraw index: []
+player0's hand cards: ['Strategize', "Adeptus' Temptation", 'Katheryne', 'Mondstadt Hash Brown', 'Liben']
+player1's hand cards: ['Dawn Winery', "Calx's Arts", 'Paimon', 'Quick Knit', 'Raven Bow']
+player0's Mona use skill Illusory Torrent
+player0 choose active character Xingqiu
+player1 choose active character Xiangling
+player0 first
+round1 start
+player0's dices: ['ANEMO', 'CRYO', 'PYRO', 'ELECTRO', 'CRYO', 'OMNI', 'PYRO', 'DENDRO']
+player1's dices: ['OMNI', 'HYDRO', 'CRYO', 'CRYO', 'HYDRO', 'PYRO', 'GEO', 'ELECTRO']
+player1's reroll index: [1, 2, 3, 4, 6, 7]
+player1's dices: ['OMNI', 'PYRO', 'ELECTRO', 'DENDRO', 'DENDRO', 'ANEMO', 'ANEMO', 'OMNI']
+player0's reroll index: [0, 1, 2, 3, 4, 6, 7]
+player0's dices: ['OMNI', 'GEO', 'ANEMO', 'HYDRO', 'CRYO', 'ELECTRO', 'HYDRO', 'DENDRO']
+player0 play card Liben
+player0's dices: ['OMNI', 'GEO', 'ANEMO', 'HYDRO', 'CRYO', 'ELECTRO', 'HYDRO', 'DENDRO']
+player0's hand cards: ['Strategize', "Adeptus' Temptation", 'Katheryne', 'Mondstadt Hash Brown']
+player0 play card Katheryne
+player0's dices: ['OMNI', 'GEO', 'ANEMO', 'HYDRO', 'ELECTRO', 'HYDRO']
+player0's hand cards: ['Strategize', "Adeptus' Temptation", 'Mondstadt Hash Brown']
+player0 play card Strategize
+player0's dices: ['OMNI', 'GEO', 'ANEMO', 'HYDRO', 'HYDRO']
+player0's hand cards: ["Adeptus' Temptation", 'Mondstadt Hash Brown']
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player0's Xingqiu use skill Fatal Rainscreen
+trigger Fatal Rainscreen_0, effect is {'effect_type': 'APPLICATION', 'effect_value': 'HYDRO'}
+player1 play card Paimon
+player1's dices: ['PYRO', 'ELECTRO', 'ANEMO', 'ANEMO', 'OMNI']
+player1's hand cards: ['Dawn Winery', "Calx's Arts", 'Quick Knit', 'Raven Bow']
+player1 play card Dawn Winery
+player1's dices: ['PYRO', 'ELECTRO', 'OMNI']
+player1's hand cards: ["Calx's Arts", 'Quick Knit', 'Raven Bow']
+player1 action element_tuning, use card Quick Knit
+player1's dices: ['PYRO', 'OMNI', 'PYRO']
+player1's hand cards: ["Calx's Arts", 'Raven Bow']
+player1's Xiangling use skill Guoba Attack
+player0 action round end
+player1 action round end
+trigger Rain Sword_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+round2 start
+trigger Paimon_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0's dices: ['HYDRO', 'PYRO', 'PYRO', 'GEO', 'DENDRO', 'OMNI', 'GEO', 'PYRO']
+player1's dices: ['OMNI', 'OMNI', 'ELECTRO', 'HYDRO', 'ELECTRO', 'PYRO', 'ELECTRO', 'DENDRO', 'GEO', 'CRYO']
+player0's reroll index: [1, 2, 3, 4, 6, 7]
+player0's dices: ['HYDRO', 'OMNI', 'ANEMO', 'DENDRO', 'HYDRO', 'PYRO', 'DENDRO', 'PYRO']
+player1's reroll index: [2, 3, 4, 6, 7, 8, 9]
+player1's dices: ['OMNI', 'OMNI', 'PYRO', 'DENDRO', 'PYRO', 'PYRO', 'CRYO', 'CRYO', 'OMNI', 'CRYO']
+player0 play card The Bestest Travel Companion!
+player0's dices: ['HYDRO', 'OMNI', 'HYDRO', 'PYRO', 'DENDRO', 'PYRO']
+player0's hand cards: ["Adeptus' Temptation", 'Mondstadt Hash Brown', 'Liben', 'Dawn Winery', "Adeptus' Temptation"]
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0 play card Dawn Winery
+player0's dices: ['HYDRO', 'HYDRO', 'PYRO', 'PYRO', 'OMNI', 'OMNI']
+player0's hand cards: ["Adeptus' Temptation", 'Mondstadt Hash Brown', 'Liben', "Adeptus' Temptation"]
+player0's Xingqiu use skill Fatal Rainscreen
+trigger Fatal Rainscreen_0, effect is {'effect_type': 'APPLICATION', 'effect_value': 'HYDRO'}
+player1 play card Katheryne
+player1's dices: ['OMNI', 'OMNI', 'PYRO', 'PYRO', 'PYRO', 'CRYO', 'OMNI', 'CRYO']
+player1's hand cards: ["Calx's Arts", 'Raven Bow', "Calx's Arts"]
+player1's Xiangling use skill Dough-Fu
+trigger Rain Sword_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+player0 action element_tuning, use card Mondstadt Hash Brown
+player0's dices: ['PYRO', 'OMNI', 'HYDRO']
+player0's hand cards: ["Adeptus' Temptation", 'Liben', "Adeptus' Temptation"]
+player0 action element_tuning, use card Adeptus' Temptation
+player0's dices: ['OMNI', 'HYDRO', 'HYDRO']
+player0's hand cards: ['Liben', "Adeptus' Temptation"]
+player0's Xingqiu use skill Raincutter
+trigger Raincutter_0, effect is {'effect_type': 'APPLICATION', 'effect_value': 'HYDRO'}
+player1's Xiangling use skill Pyronado
+trigger Rain Sword_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+player0 action round end
+player1 action round end
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+round3 start
+trigger Paimon_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0's dices: ['ANEMO', 'PYRO', 'HYDRO', 'HYDRO', 'HYDRO', 'ANEMO', 'DENDRO', 'HYDRO']
+player1's dices: ['OMNI', 'OMNI', 'ANEMO', 'CRYO', 'OMNI', 'PYRO', 'ANEMO', 'GEO', 'ELECTRO', 'HYDRO']
+player1's reroll index: [2, 3, 6, 7, 8, 9]
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'PYRO', 'DENDRO', 'PYRO', 'ANEMO', 'HYDRO', 'ANEMO', 'DENDRO']
+player0's reroll index: [0, 1, 5, 6]
+player0's dices: ['HYDRO', 'HYDRO', 'HYDRO', 'HYDRO', 'ELECTRO', 'ANEMO', 'DENDRO', 'ANEMO']
+trigger Katheryne_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+trigger Dawn Winery_0, effect is {'effect_type': 'CHANGE_COST', 'effect_value': '-1'}
+player0 change character from Xingqiu to Mona, it's fast action
+player0's Mona use skill Mirror Reflection of Doom
+player1 play card Changing Shifts
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'PYRO', 'DENDRO', 'PYRO', 'ANEMO', 'HYDRO', 'ANEMO', 'DENDRO']
+player1's hand cards: ["Calx's Arts", 'Raven Bow', "Calx's Arts", 'Changing Shifts']
+trigger Changing Shifts_0, effect is {'effect_type': 'CHANGE_COST', 'effect_value': '-1'}
+trigger Katheryne_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player1 change character from Xiangling to Ganyu, it's fast action
+player1 action element_tuning, use card Calx's Arts
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'PYRO', 'DENDRO', 'PYRO', 'ANEMO', 'ANEMO', 'DENDRO', 'CRYO']
+player1's hand cards: ["Calx's Arts", 'Raven Bow', 'Changing Shifts']
+player1 action element_tuning, use card Raven Bow
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'PYRO', 'PYRO', 'ANEMO', 'ANEMO', 'DENDRO', 'CRYO', 'CRYO']
+player1's hand cards: ["Calx's Arts", 'Changing Shifts']
+player1's Ganyu use skill Frostflake Arrow
+player1's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+trigger Reflection_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+trigger Illusory Torrent_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player0 change character from Mona to Klee, it's fast action
+player0 play card Liben
+player0's dices: ['HYDRO', 'ANEMO', 'ANEMO']
+player0's hand cards: ['Liben', "Adeptus' Temptation", 'Toss-Up']
+player0 action element_tuning, use card Adeptus' Temptation
+player0's dices: ['HYDRO', 'ANEMO', 'PYRO']
+player0's hand cards: ['Liben', 'Toss-Up']
+player0 play card Toss-Up
+player0's dices: ['HYDRO', 'ANEMO', 'PYRO']
+player0's hand cards: ['Liben']
+player0's reroll index: [0, 1]
+player0's dices: ['PYRO', 'PYRO', 'CRYO']
+player0's reroll index: [2]
+player0's dices: ['PYRO', 'PYRO', 'PYRO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0's Klee use skill Jumpy Dumpty
+player1 play card Changing Shifts
+player1's dices: ['PYRO', 'PYRO', 'ANEMO', 'ANEMO', 'DENDRO']
+player1's hand cards: ["Calx's Arts"]
+trigger Changing Shifts_0, effect is {'effect_type': 'CHANGE_COST', 'effect_value': '-1'}
+player1 change character from Ganyu to Bennett, it's combat action
+player0 action round end
+player1 action element_tuning, use card Calx's Arts
+player1's dices: ['PYRO', 'PYRO', 'ANEMO', 'ANEMO', 'PYRO']
+player1's hand cards: []
+player1's Bennett use skill Passion Overload
+player1 action round end
+trigger Reflection_1, effect is {'effect_type': 'HYDRO_DMG', 'effect_value': 1}
+round4 start
+player0's dices: ['GEO', 'CRYO', 'PYRO', 'CRYO', 'GEO', 'OMNI', 'DENDRO', 'CRYO']
+player1's dices: ['OMNI', 'CRYO', 'OMNI', 'OMNI', 'ELECTRO', 'CRYO', 'PYRO', 'GEO']
+player1's reroll index: [1, 4, 5, 7]
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'PYRO', 'HYDRO', 'GEO', 'GEO', 'PYRO']
+player0's reroll index: [0, 1, 3, 4, 6, 7]
+player0's dices: ['PYRO', 'OMNI', 'GEO', 'CRYO', 'GEO', 'ANEMO', 'PYRO', 'GEO']
+player0 play card Toss-Up
+player0's dices: ['PYRO', 'OMNI', 'GEO', 'CRYO', 'GEO', 'ANEMO', 'PYRO', 'GEO']
+player0's hand cards: ['Liben', 'Mondstadt Hash Brown']
+player0's reroll index: [2, 3, 4, 5, 7]
+player0's dices: ['PYRO', 'OMNI', 'PYRO', 'OMNI', 'DENDRO', 'OMNI', 'HYDRO', 'HYDRO']
+player0's reroll index: [4, 6, 7]
+player0's dices: ['PYRO', 'OMNI', 'PYRO', 'OMNI', 'OMNI', 'ANEMO', 'ELECTRO', 'HYDRO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0 play card Mondstadt Hash Brown
+player0's dices: ['PYRO', 'OMNI', 'PYRO', 'OMNI', 'OMNI', 'ANEMO', 'HYDRO']
+player0's hand cards: ['Liben']
+player0's Klee use skill Jumpy Dumpty
+player1's Bennett use skill Passion Overload
+player0 action element_tuning, use card Liben
+player0's dices: ['OMNI', 'OMNI', 'HYDRO', 'PYRO']
+player0's hand cards: []
+player0's Klee use skill Jumpy Dumpty
+player1 action element_tuning, use card Sacrificial Sword
+player1's dices: ['OMNI', 'OMNI', 'GEO', 'GEO', 'PYRO']
+player1's hand cards: ['The Bestest Travel Companion!']
+player1 play card The Bestest Travel Companion!
+player1's dices: ['OMNI', 'OMNI', 'PYRO']
+player1's hand cards: []
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player1's Bennett use skill Fantastic Voyage

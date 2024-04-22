@@ -1,0 +1,23 @@
+seed: 1713369949.3816488
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['Quick Knit', 'Changing Shifts', 'Paimon', 'Leave It to Me!', 'Blizzard Strayer']
+player1's hand cards: ['Liben', 'Changing Shifts', 'Sacrificial Sword', 'Katheryne', 'Toss-Up']
+player0's redraw index: []
+player1's redraw index: []
+player0's hand cards: ['Quick Knit', 'Changing Shifts', 'Paimon', 'Leave It to Me!', 'Blizzard Strayer']
+player1's hand cards: ['Liben', 'Changing Shifts', 'Sacrificial Sword', 'Katheryne', 'Toss-Up']
+player0 choose active character Xiangling
+player1 choose active character Xiangling
+player0 first
+round1 start
+player0's dices: ['ANEMO', 'OMNI', 'DENDRO', 'CRYO', 'ELECTRO', 'GEO', 'OMNI', 'GEO']
+player1's dices: ['GEO', 'HYDRO', 'DENDRO', 'ANEMO', 'CRYO', 'GEO', 'OMNI', 'CRYO']
+player1's reroll index: [0, 1, 2, 3, 4, 5, 7]
+player1's dices: ['OMNI', 'ELECTRO', 'PYRO', 'HYDRO', 'PYRO', 'ELECTRO', 'PYRO', 'PYRO']
+player0's reroll index: [0, 2, 3, 4, 5, 7]
+player0's dices: ['OMNI', 'OMNI', 'DENDRO', 'CRYO', 'PYRO', 'DENDRO', 'ANEMO', 'ELECTRO']
+player0 play card Blizzard Strayer
+player0's dices: ['OMNI', 'CRYO', 'PYRO', 'ANEMO', 'ELECTRO']
+player0's hand cards: ['Quick Knit', 'Changing Shifts', 'Paimon', 'Leave It to Me!']
+player0 action round end

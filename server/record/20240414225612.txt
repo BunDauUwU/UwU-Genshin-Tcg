@@ -1,0 +1,5 @@
+seed: 1713110172.1324131
+player0's characters: ['Fischl', 'Collei', 'Keqing']
+player1's characters: ['Fischl', 'Collei', 'Keqing']
+player0's hand cards: ['Sweet Madame', 'Chang the Ninth', 'Parametric Transformer', 'Timmie', "I Haven't Lost Yet!"]
+player1's hand cards: ['Parametric Transformer', 'Leave It to Me!', 'Changing Shifts', 'Magic Guide', 'Favonius Cathedral']

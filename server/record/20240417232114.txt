@@ -1,0 +1,96 @@
+seed: 1713370874.8832328
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['Dawn Winery', 'Timmie', 'Quick Knit', 'Toss-Up', 'Leave It to Me!']
+player1's hand cards: ["Calx's Arts", 'Liben', 'Paimon', 'Liben', 'Paimon']
+player1's redraw index: [3]
+player0's redraw index: []
+player0's hand cards: ['Dawn Winery', 'Timmie', 'Quick Knit', 'Toss-Up', 'Leave It to Me!']
+player1's hand cards: ["Calx's Arts", 'Liben', 'Paimon', 'Paimon', 'Leave It to Me!']
+player0 choose active character Xiangling
+player1 choose active character Xiangling
+player1 first
+round1 start
+player0's dices: ['ELECTRO', 'PYRO', 'PYRO', 'OMNI', 'HYDRO', 'ELECTRO', 'DENDRO', 'PYRO']
+player1's dices: ['OMNI', 'DENDRO', 'DENDRO', 'PYRO', 'OMNI', 'HYDRO', 'GEO', 'HYDRO']
+player1's reroll index: [1, 2, 5, 6, 7]
+player1's dices: ['OMNI', 'PYRO', 'OMNI', 'OMNI', 'DENDRO', 'ELECTRO', 'DENDRO', 'GEO']
+player0's reroll index: [0, 4, 5, 6]
+player0's dices: ['PYRO', 'PYRO', 'OMNI', 'PYRO', 'GEO', 'ANEMO', 'PYRO', 'CRYO']
+player1 play card Paimon
+player1's dices: ['PYRO', 'OMNI', 'OMNI', 'ELECTRO', 'GEO']
+player1's hand cards: ["Calx's Arts", 'Liben', 'Paimon', 'Leave It to Me!']
+player1 play card Liben
+player1's dices: ['PYRO', 'OMNI', 'OMNI', 'ELECTRO', 'GEO']
+player1's hand cards: ["Calx's Arts", 'Paimon', 'Leave It to Me!']
+player1's Xiangling use skill Guoba Attack
+player0 play card Timmie
+player0's dices: ['PYRO', 'PYRO', 'OMNI', 'PYRO', 'GEO', 'ANEMO', 'PYRO', 'CRYO']
+player0's hand cards: ['Dawn Winery', 'Quick Knit', 'Toss-Up', 'Leave It to Me!']
+player0's Timmie counter Pigeon change from 0 to 1trigger Timmie_0, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player0 play card Dawn Winery
+player0's dices: ['PYRO', 'PYRO', 'PYRO', 'ANEMO', 'PYRO', 'CRYO']
+player0's hand cards: ['Quick Knit', 'Toss-Up', 'Leave It to Me!']
+player0's Xiangling use skill Guoba Attack
+player1 action round end
+player0 play card Toss-Up
+player0's dices: ['ANEMO', 'PYRO', 'CRYO']
+player0's hand cards: ['Quick Knit', 'Leave It to Me!']
+player0's reroll index: [0, 2]
+player0's dices: ['PYRO', 'ELECTRO', 'HYDRO']
+player0's reroll index: [1, 2]
+player0's dices: ['PYRO', 'CRYO', 'ELECTRO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0's Xiangling use skill Dough-Fu
+player0 action round end
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+round2 start
+player0's Timmie counter Pigeon change from 1 to 2trigger Timmie_1, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+trigger Paimon_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0's dices: ['DENDRO', 'DENDRO', 'DENDRO', 'ELECTRO', 'CRYO', 'PYRO', 'DENDRO', 'DENDRO']
+player1's dices: ['OMNI', 'OMNI', 'DENDRO', 'GEO', 'ELECTRO', 'ELECTRO', 'CRYO', 'OMNI', 'GEO', 'DENDRO']
+player0's reroll index: [0, 1, 2, 3, 4, 6, 7]
+player0's dices: ['PYRO', 'PYRO', 'DENDRO', 'PYRO', 'PYRO', 'DENDRO', 'CRYO', 'OMNI']
+player1's reroll index: [2, 3, 4, 5, 6, 8, 9]
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'PYRO', 'PYRO', 'PYRO', 'DENDRO', 'CRYO', 'OMNI', 'HYDRO']
+player1 play card Favonius Cathedral
+player1's dices: ['OMNI', 'OMNI', 'PYRO', 'PYRO', 'PYRO', 'CRYO', 'OMNI', 'HYDRO']
+player1's hand cards: ["Calx's Arts", 'Paimon', 'Leave It to Me!', 'Dawn Winery']
+player1's Xiangling use skill Guoba Attack
+player0 play card Liben
+player0's dices: ['PYRO', 'PYRO', 'DENDRO', 'PYRO', 'PYRO', 'DENDRO', 'CRYO', 'OMNI']
+player0's hand cards: ['Quick Knit', 'Leave It to Me!', 'Changing Shifts']
+player0 play card Quick Knit
+player0's dices: ['PYRO', 'PYRO', 'PYRO', 'PYRO', 'DENDRO', 'CRYO', 'OMNI']
+player0's hand cards: ['Leave It to Me!', 'Changing Shifts']
+player0's Xiangling use skill Pyronado
+player1 action element_tuning, use card Dawn Winery
+player1's dices: ['OMNI', 'OMNI', 'CRYO', 'OMNI', 'PYRO']
+player1's hand cards: ["Calx's Arts", 'Paimon', 'Leave It to Me!']
+player1's Xiangling use skill Pyronado
+player0's Xiangling use skill Dough-Fu
+player1 play card Leave It to Me!
+player1's dices: ['CRYO']
+player1's hand cards: ["Calx's Arts", 'Paimon']
+trigger Leave It to Me!_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player1 change character from Xiangling to Ganyu, it's fast action
+player1 action round end
+player0 play card Leave It to Me!
+player0's dices: []
+player0's hand cards: ['Changing Shifts']
+player0 action round end
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+trigger Favonius Cathedral_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+round3 start
+player0's Timmie counter Pigeon change from 2 to 3trigger Timmie_1, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+trigger Timmie_2, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 1}
+trigger Timmie_3, effect is {'effect_type': 'APPEND_DICE', 'effect_value': 'OMNI'}
+trigger Paimon_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0's dices: ['OMNI', 'GEO', 'CRYO', 'PYRO', 'GEO', 'ANEMO', 'PYRO', 'DENDRO', 'ELECTRO']
+player1's dices: ['OMNI', 'OMNI', 'PYRO', 'OMNI', 'HYDRO', 'DENDRO', 'PYRO', 'ELECTRO', 'ELECTRO', 'DENDRO']
+player0's reroll index: [1, 2, 4, 5, 7, 8]
+player0's dices: ['OMNI', 'PYRO', 'PYRO', 'HYDRO', 'HYDRO', 'OMNI', 'GEO', 'ELECTRO', 'OMNI']
+player1's reroll index: [2, 4, 5, 6, 7, 8, 9]
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'HYDRO', 'GEO', 'PYRO', 'ELECTRO', 'GEO', 'DENDRO', 'DENDRO']

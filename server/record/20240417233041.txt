@@ -1,0 +1,67 @@
+seed: 1713371441.2125497
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['Toss-Up', 'The Bestest Travel Companion!', 'Wagner', 'Changing Shifts', 'Elemental Resonance Fervent Flames']
+player1's hand cards: ['Dawn Winery', 'Katheryne', 'Katheryne', 'Leave It to Me!', "Broken Rime's Echo"]
+player0's redraw index: [2]
+player1's redraw index: [2]
+player0's hand cards: ['Toss-Up', 'The Bestest Travel Companion!', 'Changing Shifts', 'Elemental Resonance Fervent Flames', 'Quick Knit']
+player1's hand cards: ['Dawn Winery', 'Katheryne', 'Leave It to Me!', "Broken Rime's Echo", 'Leave It to Me!']
+player0 choose active character Bennett
+player1 choose active character Xiangling
+player1 first
+round1 start
+player0's dices: ['CRYO', 'ELECTRO', 'OMNI', 'GEO', 'PYRO', 'ANEMO', 'ANEMO', 'OMNI']
+player1's dices: ['GEO', 'GEO', 'ELECTRO', 'CRYO', 'OMNI', 'ELECTRO', 'PYRO', 'HYDRO']
+player0's reroll index: [0, 1, 3, 4, 5, 6]
+player0's dices: ['OMNI', 'OMNI', 'ELECTRO', 'HYDRO', 'CRYO', 'DENDRO', 'PYRO', 'HYDRO']
+player1's reroll index: [0, 1, 2, 3, 5, 7]
+player1's dices: ['OMNI', 'PYRO', 'ELECTRO', 'ANEMO', 'PYRO', 'ANEMO', 'HYDRO', 'PYRO']
+player1 play card Katheryne
+player1's dices: ['OMNI', 'PYRO', 'ANEMO', 'PYRO', 'ANEMO', 'PYRO']
+player1's hand cards: ['Dawn Winery', 'Leave It to Me!', "Broken Rime's Echo", 'Leave It to Me!']
+player1 play card Dawn Winery
+player1's dices: ['OMNI', 'PYRO', 'PYRO', 'PYRO']
+player1's hand cards: ['Leave It to Me!', "Broken Rime's Echo", 'Leave It to Me!']
+player1's Xiangling use skill Guoba Attack
+player0's Bennett use skill Passion Overload
+player1 action round end
+player0 play card The Bestest Travel Companion!
+player0's dices: ['HYDRO', 'CRYO', 'HYDRO']
+player0's hand cards: ['Toss-Up', 'Changing Shifts', 'Elemental Resonance Fervent Flames', 'Quick Knit']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0 play card Toss-Up
+player0's dices: ['HYDRO', 'CRYO', 'HYDRO', 'OMNI', 'OMNI']
+player0's hand cards: ['Changing Shifts', 'Elemental Resonance Fervent Flames', 'Quick Knit']
+player0's reroll index: [0, 1, 2]
+player0's dices: ['OMNI', 'OMNI', 'OMNI', 'HYDRO', 'ELECTRO']
+player0's reroll index: [3, 4]
+player0's dices: ['OMNI', 'OMNI', 'OMNI', 'GEO', 'CRYO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0's Bennett use skill Passion Overload
+player0 action round end
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+round2 start
+player0's dices: ['ELECTRO', 'OMNI', 'DENDRO', 'ANEMO', 'ELECTRO', 'ANEMO', 'ELECTRO', 'HYDRO']
+player1's dices: ['HYDRO', 'ELECTRO', 'PYRO', 'DENDRO', 'OMNI', 'ELECTRO', 'ELECTRO', 'DENDRO']
+player1's reroll index: [0, 1, 3, 5, 6, 7]
+player1's dices: ['PYRO', 'OMNI', 'DENDRO', 'DENDRO', 'DENDRO', 'HYDRO', 'ANEMO', 'OMNI']
+player0's reroll index: [0, 2, 3, 4, 5, 6, 7]
+player0's dices: ['OMNI', 'GEO', 'GEO', 'OMNI', 'DENDRO', 'CRYO', 'ELECTRO', 'DENDRO']
+player1 play card Chang the Ninth
+player1's dices: ['PYRO', 'OMNI', 'DENDRO', 'DENDRO', 'DENDRO', 'HYDRO', 'ANEMO', 'OMNI']
+player1's hand cards: ['Leave It to Me!', "Broken Rime's Echo", 'Leave It to Me!', 'Changing Shifts']
+player1's Xiangling use skill Guoba Attack
+player0 play card Katheryne
+player0's dices: ['OMNI', 'GEO', 'GEO', 'OMNI', 'CRYO', 'DENDRO']
+player0's hand cards: ['Changing Shifts', 'Elemental Resonance Fervent Flames', 'Quick Knit', 'Chang the Ninth']
+player0 play card Chang the Ninth
+player0's dices: ['OMNI', 'GEO', 'GEO', 'OMNI', 'CRYO', 'DENDRO']
+player0's hand cards: ['Changing Shifts', 'Elemental Resonance Fervent Flames', 'Quick Knit']
+player0 play card Changing Shifts
+player0's dices: ['OMNI', 'GEO', 'GEO', 'OMNI', 'CRYO', 'DENDRO']
+player0's hand cards: ['Elemental Resonance Fervent Flames', 'Quick Knit']
+player0 action round end
+player1 play card Broken Rime's Echo
+player1's dices: ['DENDRO', 'HYDRO', 'ANEMO']
+player1's hand cards: ['Leave It to Me!', 'Leave It to Me!', 'Changing Shifts']

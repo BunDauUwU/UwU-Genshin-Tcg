@@ -1,0 +1,30 @@
+seed: 1713370333.7051938
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['Changing Shifts', 'Blizzard Strayer', 'The Bestest Travel Companion!', 'Sacrificial Sword', "Calx's Arts"]
+player1's hand cards: ['Favonius Cathedral', 'Paimon', 'The Bestest Travel Companion!', 'Dawn Winery', "Calx's Arts"]
+player1's redraw index: []
+player0's redraw index: []
+player0's hand cards: ['Changing Shifts', 'Blizzard Strayer', 'The Bestest Travel Companion!', 'Sacrificial Sword', "Calx's Arts"]
+player1's hand cards: ['Favonius Cathedral', 'Paimon', 'The Bestest Travel Companion!', 'Dawn Winery', "Calx's Arts"]
+player0 choose active character Bennett
+player1 choose active character Xiangling
+player1 first
+round1 start
+player0's dices: ['GEO', 'GEO', 'ANEMO', 'CRYO', 'ELECTRO', 'OMNI', 'ELECTRO', 'OMNI']
+player1's dices: ['OMNI', 'CRYO', 'CRYO', 'CRYO', 'GEO', 'ELECTRO', 'GEO', 'PYRO']
+player1's reroll index: [1, 2, 3, 4, 5, 6]
+player1's dices: ['OMNI', 'PYRO', 'ELECTRO', 'HYDRO', 'OMNI', 'ANEMO', 'GEO', 'GEO']
+player0's reroll index: [0, 1, 2, 3, 4, 6]
+player0's dices: ['OMNI', 'OMNI', 'HYDRO', 'GEO', 'HYDRO', 'GEO', 'ELECTRO', 'GEO']
+player1 play card The Bestest Travel Companion!
+player1's dices: ['OMNI', 'PYRO', 'ELECTRO', 'OMNI', 'GEO', 'GEO']
+player1's hand cards: ['Favonius Cathedral', 'Paimon', 'Dawn Winery', "Calx's Arts"]
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player1 play card Dawn Winery
+player1's dices: ['OMNI', 'PYRO', 'ELECTRO', 'OMNI', 'OMNI', 'OMNI']
+player1's hand cards: ['Favonius Cathedral', 'Paimon', "Calx's Arts"]
+player1 play card Favonius Cathedral
+player1's dices: ['PYRO', 'OMNI', 'OMNI', 'OMNI']
+player1's hand cards: ['Paimon', "Calx's Arts"]
+player1's Xiangling use skill Guoba Attack

@@ -1,0 +1,60 @@
+seed: 1713368784.455717
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['Favonius Cathedral', 'Blizzard Strayer', 'Chang the Ninth', 'Dawn Winery', 'Elemental Resonance Fervent Flames']
+player1's hand cards: ['Katheryne', 'Favonius Cathedral', 'Quick Knit', 'Liben', "Broken Rime's Echo"]
+player1's redraw index: []
+player0's redraw index: []
+player0's hand cards: ['Favonius Cathedral', 'Blizzard Strayer', 'Chang the Ninth', 'Dawn Winery', 'Elemental Resonance Fervent Flames']
+player1's hand cards: ['Katheryne', 'Favonius Cathedral', 'Quick Knit', 'Liben', "Broken Rime's Echo"]
+player0 choose active character Xiangling
+player1 choose active character Xiangling
+player1 first
+round1 start
+player0's dices: ['ELECTRO', 'DENDRO', 'ANEMO', 'ANEMO', 'OMNI', 'ELECTRO', 'DENDRO', 'ANEMO']
+player1's dices: ['PYRO', 'PYRO', 'CRYO', 'OMNI', 'OMNI', 'GEO', 'HYDRO', 'HYDRO']
+player0's reroll index: [0, 1, 2, 3, 5, 6, 7]
+player0's dices: ['OMNI', 'PYRO', 'GEO', 'ANEMO', 'HYDRO', 'ELECTRO', 'HYDRO', 'DENDRO']
+player1's reroll index: [2, 5, 6, 7]
+player1's dices: ['PYRO', 'PYRO', 'OMNI', 'OMNI', 'DENDRO', 'PYRO', 'PYRO', 'ANEMO']
+player1 play card Liben
+player1's dices: ['PYRO', 'PYRO', 'OMNI', 'OMNI', 'DENDRO', 'PYRO', 'PYRO', 'ANEMO']
+player1's hand cards: ['Katheryne', 'Favonius Cathedral', 'Quick Knit', "Broken Rime's Echo"]
+player1 play card Katheryne
+player1's dices: ['PYRO', 'PYRO', 'OMNI', 'OMNI', 'PYRO', 'PYRO']
+player1's hand cards: ['Favonius Cathedral', 'Quick Knit', "Broken Rime's Echo"]
+player1 play card Broken Rime's Echo
+player1's dices: ['OMNI', 'OMNI', 'PYRO', 'PYRO']
+player1's hand cards: ['Favonius Cathedral', 'Quick Knit']
+player1's Xiangling use skill Guoba Attack
+player0 play card Blizzard Strayer
+player0's dices: ['PYRO', 'GEO', 'ANEMO', 'ELECTRO', 'DENDRO']
+player0's hand cards: ['Favonius Cathedral', 'Chang the Ninth', 'Dawn Winery', 'Elemental Resonance Fervent Flames']
+player0 play card Elemental Resonance Fervent Flames
+player0's dices: ['GEO', 'ANEMO', 'ELECTRO', 'DENDRO']
+player0's hand cards: ['Favonius Cathedral', 'Chang the Ninth', 'Dawn Winery']
+player0 play card Chang the Ninth
+player0's dices: ['GEO', 'ANEMO', 'ELECTRO', 'DENDRO']
+player0's hand cards: ['Favonius Cathedral', 'Dawn Winery']
+player0 action element_tuning, use card Favonius Cathedral
+player0's dices: ['GEO', 'ANEMO', 'DENDRO', 'PYRO']
+player0's hand cards: ['Dawn Winery']
+player0's Xiangling use skill Dough-Fu
+player0's Chang the Ninth counter Inspiration change from 0 to 1trigger Chang the Ninth_0, effect is {'effect_type': 'Inspiration', 'effect_value': '+1'}
+player1 action round end
+player0 action round end
+trigger Guoba_0, effect is {'effect_type': 'PYRO_DMG', 'effect_value': 2}
+round2 start
+trigger Blizzard Strayer_1, effect is {'effect_type': 'FIXED_DICE', 'effect_value': ['CRYO', 'CRYO']}
+player0's dices: ['CRYO', 'CRYO', 'HYDRO', 'OMNI', 'ANEMO', 'HYDRO', 'DENDRO', 'DENDRO']
+player1's dices: ['CRYO', 'CRYO', 'ANEMO', 'ANEMO', 'PYRO', 'HYDRO', 'HYDRO', 'ANEMO']
+player0's reroll index: [0, 1, 2, 4, 5, 6, 7]
+player0's dices: ['OMNI', 'CRYO', 'PYRO', 'DENDRO', 'OMNI', 'ELECTRO', 'OMNI', 'DENDRO']
+player1's reroll index: [0, 1, 2, 3, 5, 6, 7]
+player1's dices: ['PYRO', 'ELECTRO', 'ANEMO', 'HYDRO', 'DENDRO', 'GEO', 'ELECTRO', 'DENDRO']
+player1 play card Chang the Ninth
+player1's dices: ['PYRO', 'ELECTRO', 'ANEMO', 'HYDRO', 'DENDRO', 'GEO', 'ELECTRO', 'DENDRO']
+player1's hand cards: ['Favonius Cathedral', 'Quick Knit', "Calx's Arts"]
+player1 play card Quick Knit
+player1's dices: ['PYRO', 'ELECTRO', 'HYDRO', 'DENDRO', 'GEO', 'ELECTRO', 'DENDRO']
+player1's hand cards: ['Favonius Cathedral', "Calx's Arts"]

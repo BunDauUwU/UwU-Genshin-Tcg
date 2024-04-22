@@ -1,0 +1,95 @@
+seed: 1713110678.412504
+player0's characters: ['Fischl', 'Collei', 'Keqing']
+player1's characters: ['Mona', 'Ganyu', 'Keqing']
+player0's hand cards: ['Timmie', 'Mushroom Pizza', 'Toss-Up', 'Strategize', 'Parametric Transformer']
+player1's hand cards: ['Undivided Heart', 'Strategize', "Thunder Summoner's Crown", 'The Bestest Travel Companion!', 'Katheryne']
+player1's redraw index: []
+player0's redraw index: []
+player0's hand cards: ['Timmie', 'Mushroom Pizza', 'Toss-Up', 'Strategize', 'Parametric Transformer']
+player1's hand cards: ['Undivided Heart', 'Strategize', "Thunder Summoner's Crown", 'The Bestest Travel Companion!', 'Katheryne']
+player1's Mona use skill Illusory Torrent
+player0 choose active character Fischl
+player1 choose active character Mona
+player0 first
+round1 start
+player0's dices: ['HYDRO', 'CRYO', 'ANEMO', 'GEO', 'HYDRO', 'GEO', 'HYDRO', 'ELECTRO']
+player1's dices: ['HYDRO', 'CRYO', 'GEO', 'DENDRO', 'ANEMO', 'CRYO', 'OMNI', 'OMNI']
+player1's reroll index: [2, 3, 4]
+player1's dices: ['HYDRO', 'CRYO', 'CRYO', 'OMNI', 'OMNI', 'PYRO', 'PYRO', 'PYRO']
+player0's reroll index: [0, 1, 2, 3, 4, 5, 6]
+player0's dices: ['ELECTRO', 'CRYO', 'ANEMO', 'CRYO', 'ELECTRO', 'PYRO', 'OMNI', 'HYDRO']
+player0 play card Timmie
+player0's dices: ['ELECTRO', 'CRYO', 'ANEMO', 'CRYO', 'ELECTRO', 'PYRO', 'OMNI', 'HYDRO']
+player0's hand cards: ['Mushroom Pizza', 'Toss-Up', 'Strategize', 'Parametric Transformer']
+player0's Timmie counter Pigeon change from 0 to 1trigger Timmie_0, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player0 play card Toss-Up
+player0's dices: ['ELECTRO', 'CRYO', 'ANEMO', 'CRYO', 'ELECTRO', 'PYRO', 'OMNI', 'HYDRO']
+player0's hand cards: ['Mushroom Pizza', 'Strategize', 'Parametric Transformer']
+player0's reroll index: [1, 2, 3, 7]
+player0's dices: ['ELECTRO', 'ELECTRO', 'PYRO', 'OMNI', 'HYDRO', 'ELECTRO', 'PYRO', 'HYDRO']
+player0's reroll index: [2, 4, 6, 7]
+player0's dices: ['ELECTRO', 'ELECTRO', 'OMNI', 'ELECTRO', 'ELECTRO', 'OMNI', 'ANEMO', 'GEO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0's Fischl use skill Nightrider
+player1 play card Katheryne
+player1's dices: ['HYDRO', 'CRYO', 'CRYO', 'OMNI', 'OMNI', 'PYRO']
+player1's hand cards: ['Undivided Heart', 'Strategize', "Thunder Summoner's Crown", 'The Bestest Travel Companion!']
+player1 play card Strategize
+player1's dices: ['HYDRO', 'CRYO', 'CRYO', 'OMNI', 'OMNI']
+player1's hand cards: ['Undivided Heart', "Thunder Summoner's Crown", 'The Bestest Travel Companion!']
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player1's Mona use skill Mirror Reflection of Doom
+player0 change character from Fischl to Collei, it's combat action
+player1 action round end
+player0 action element_tuning, use card Parametric Transformer
+player0's dices: ['OMNI', 'ELECTRO', 'OMNI', 'DENDRO']
+player0's hand cards: ['Mushroom Pizza', 'Strategize']
+player0's Collei use skill Floral Brush
+trigger Reflection_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+player0 action round end
+trigger Reflection_1, effect is {'effect_type': 'HYDRO_DMG', 'effect_value': 1}
+trigger Catalyzing Field_0, effect is {'effect_type': 'DMG', 'effect_value': '+1'}
+trigger Oz_0, effect is {'effect_type': 'ELECTRO_DMG', 'effect_value': 1}
+round2 start
+player0's Timmie counter Pigeon change from 1 to 2trigger Timmie_1, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player0's dices: ['PYRO', 'HYDRO', 'DENDRO', 'ELECTRO', 'OMNI', 'GEO', 'ANEMO', 'HYDRO']
+player1's dices: ['OMNI', 'ANEMO', 'HYDRO', 'DENDRO', 'HYDRO', 'GEO', 'ELECTRO', 'ANEMO']
+player0's reroll index: [0, 1, 2, 5, 6, 7]
+player0's dices: ['ELECTRO', 'OMNI', 'HYDRO', 'GEO', 'PYRO', 'ELECTRO', 'ANEMO', 'OMNI']
+player1's reroll index: [1, 2, 3, 4, 5, 6, 7]
+player1's dices: ['OMNI', 'HYDRO', 'OMNI', 'OMNI', 'ANEMO', 'ELECTRO', 'ELECTRO', 'DENDRO']
+trigger Illusory Torrent_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player1 change character from Mona to Keqing, it's fast action
+player1 play card Thunder Summoner's Crown
+player1's dices: ['HYDRO', 'OMNI', 'OMNI', 'ELECTRO', 'ELECTRO']
+player1's hand cards: ['Undivided Heart', 'The Bestest Travel Companion!', 'Lotus Flower Crisp', 'Undivided Heart', 'Strategize', 'Raven Bow']
+player1 play card Strategize
+player1's dices: ['OMNI', 'OMNI', 'ELECTRO', 'ELECTRO']
+player1's hand cards: ['Undivided Heart', 'The Bestest Travel Companion!', 'Lotus Flower Crisp', 'Undivided Heart', 'Raven Bow']
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+trigger Wine-Stained Tricorne_0, effect is {'effect_type': 'COST_ELECTRO', 'effect_value': '-1'}
+player1's Keqing use skill Stellar Restoration
+player0 play card Chang the Ninth
+player0's dices: ['ELECTRO', 'OMNI', 'HYDRO', 'GEO', 'PYRO', 'ELECTRO', 'ANEMO', 'OMNI']
+player0's hand cards: ['Mushroom Pizza', 'Strategize', 'Magic Guide']
+player0 action element_tuning, use card Magic Guide
+player0's dices: ['ELECTRO', 'OMNI', 'GEO', 'PYRO', 'ELECTRO', 'ANEMO', 'OMNI', 'DENDRO']
+player0's hand cards: ['Mushroom Pizza', 'Strategize']
+player0 play card Mushroom Pizza
+player0's dices: ['ELECTRO', 'OMNI', 'PYRO', 'ELECTRO', 'ANEMO', 'OMNI', 'DENDRO']
+player0's hand cards: ['Strategize']
+player0's Collei use skill Floral Brush
+trigger Catalyzing Field_0, effect is {'effect_type': 'DMG', 'effect_value': '+1'}
+player1 action round end
+player0 play card Strategize
+player0's dices: ['ELECTRO', 'PYRO', 'ELECTRO']
+player0's hand cards: []
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player0 play card Favonius Cathedral
+player0's dices: ['PYRO']
+player0's hand cards: ['Leave It to Me!']
+player0 action round end
+trigger Mushroom Pizza_1, effect is {'effect_type': 'HEAL', 'effect_value': 1}
+trigger Oz_0, effect is {'effect_type': 'ELECTRO_DMG', 'effect_value': 1}
+trigger Favonius Cathedral_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+round3 start

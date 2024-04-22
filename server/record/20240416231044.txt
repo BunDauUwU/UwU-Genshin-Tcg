@@ -1,0 +1,59 @@
+seed: 1713283844.943808
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Klee', 'Mona', 'Xingqiu']
+player0's hand cards: ['Liben', 'Timmie', 'Liben', 'Quick Knit', 'Leave It to Me!']
+player1's hand cards: ["Adeptus' Temptation", 'Dawn Winery', 'Crimson Witch of Flames', 'Leave It to Me!', 'Dawn Winery']
+player0's redraw index: [2]
+player1's redraw index: [1]
+player0's hand cards: ['Liben', 'Timmie', 'Quick Knit', 'Leave It to Me!', 'Chang the Ninth']
+player1's hand cards: ["Adeptus' Temptation", 'Crimson Witch of Flames', 'Leave It to Me!', 'Dawn Winery', 'Toss-Up']
+player1's Mona use skill Illusory Torrent
+player0 choose active character Xiangling
+player1 choose active character Xingqiu
+player1 first
+round1 start
+player0's dices: ['ANEMO', 'OMNI', 'CRYO', 'ANEMO', 'GEO', 'GEO', 'PYRO', 'GEO']
+player1's dices: ['CRYO', 'ANEMO', 'OMNI', 'PYRO', 'OMNI', 'ANEMO', 'ELECTRO', 'HYDRO']
+player0's reroll index: [0, 2, 3, 4, 5, 7]
+player0's dices: ['OMNI', 'PYRO', 'GEO', 'ANEMO', 'ELECTRO', 'CRYO', 'CRYO', 'GEO']
+player1's reroll index: [0, 1, 3, 5, 6]
+player1's dices: ['OMNI', 'OMNI', 'HYDRO', 'CRYO', 'ANEMO', 'GEO', 'ELECTRO', 'DENDRO']
+player1 play card Dawn Winery
+player1's dices: ['OMNI', 'HYDRO', 'ANEMO', 'GEO', 'ELECTRO', 'DENDRO']
+player1's hand cards: ["Adeptus' Temptation", 'Crimson Witch of Flames', 'Leave It to Me!', 'Toss-Up']
+player1 play card Toss-Up
+player1's dices: ['OMNI', 'HYDRO', 'ANEMO', 'GEO', 'ELECTRO', 'DENDRO']
+player1's hand cards: ["Adeptus' Temptation", 'Crimson Witch of Flames', 'Leave It to Me!']
+player1's reroll index: [2, 3, 4, 5]
+player1's dices: ['OMNI', 'HYDRO', 'OMNI', 'HYDRO', 'ELECTRO', 'DENDRO']
+player1's reroll index: [4, 5]
+player1's dices: ['OMNI', 'HYDRO', 'OMNI', 'HYDRO', 'GEO', 'ELECTRO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player1's Xingqiu use skill Fatal Rainscreen
+trigger Fatal Rainscreen_0, effect is {'effect_type': 'APPLICATION', 'effect_value': 'HYDRO'}
+player0 play card Chang the Ninth
+player0's dices: ['OMNI', 'PYRO', 'GEO', 'ANEMO', 'ELECTRO', 'CRYO', 'CRYO', 'GEO']
+player0's hand cards: ['Liben', 'Timmie', 'Quick Knit', 'Leave It to Me!']
+player0 play card Timmie
+player0's dices: ['OMNI', 'PYRO', 'GEO', 'ANEMO', 'ELECTRO', 'CRYO', 'CRYO', 'GEO']
+player0's hand cards: ['Liben', 'Quick Knit', 'Leave It to Me!']
+player0's Timmie counter Pigeon change from 0 to 1trigger Timmie_0, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player0 play card Liben
+player0's dices: ['OMNI', 'PYRO', 'GEO', 'ANEMO', 'ELECTRO', 'CRYO', 'CRYO', 'GEO']
+player0's hand cards: ['Quick Knit', 'Leave It to Me!']
+player0 action element_tuning, use card Quick Knit
+player0's dices: ['OMNI', 'PYRO', 'GEO', 'ELECTRO', 'CRYO', 'CRYO', 'GEO', 'PYRO']
+player0's hand cards: ['Leave It to Me!']
+player0's Xiangling use skill Guoba Attack
+player1 action element_tuning, use card Adeptus' Temptation
+player1's dices: ['OMNI', 'GEO', 'HYDRO']
+player1's hand cards: ['Crimson Witch of Flames', 'Leave It to Me!']
+player1 action element_tuning, use card Leave It to Me!
+player1's dices: ['OMNI', 'HYDRO', 'HYDRO']
+player1's hand cards: ['Crimson Witch of Flames']
+player1 play card Crimson Witch of Flames
+player1's dices: []
+player1's hand cards: []
+player1 action round end
+player0 action round end
+trigger Rain Sword_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}

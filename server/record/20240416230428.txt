@@ -1,0 +1,14 @@
+seed: 1713283468.053225
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Klee', 'Mona', 'Xingqiu']
+player0's hand cards: ['Wagner', 'Changing Shifts', 'Favonius Cathedral', 'Timmie', 'Favonius Cathedral']
+player1's hand cards: ['The Bestest Travel Companion!', 'Changing Shifts', 'Katheryne', 'Changing Shifts', 'Toss-Up']
+player0's redraw index: [2]
+player1's redraw index: []
+player0's hand cards: ['Wagner', 'Changing Shifts', 'Timmie', 'Favonius Cathedral', 'Leave It to Me!']
+player1's hand cards: ['The Bestest Travel Companion!', 'Changing Shifts', 'Katheryne', 'Changing Shifts', 'Toss-Up']
+player1's Mona use skill Illusory Torrent
+player0 choose active character Xiangling
+player1 choose active character Xingqiu
+player1 first
+round1 start

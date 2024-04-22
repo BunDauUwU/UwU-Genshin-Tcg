@@ -1,0 +1,45 @@
+seed: 1713271795.6184158
+player0's characters: ['Ganyu', 'Diona', 'Sucrose']
+player1's characters: ['Ganyu', 'Diona', 'Sucrose']
+player0's hand cards: ['Strategize', 'Jueyun Guoba', 'Minty Meat Rolls', 'Jueyun Guoba', "Adeptus' Temptation"]
+player1's hand cards: ['Sacrificial Bow', "Blessing of the Divine Relic's Installation", 'Send Off', 'Toss-Up', 'Jueyun Guoba']
+player1's redraw index: []
+player0's redraw index: []
+player0's hand cards: ['Strategize', 'Jueyun Guoba', 'Minty Meat Rolls', 'Jueyun Guoba', "Adeptus' Temptation"]
+player1's hand cards: ['Sacrificial Bow', "Blessing of the Divine Relic's Installation", 'Send Off', 'Toss-Up', 'Jueyun Guoba']
+player0 choose active character Diona
+player1 choose active character Sucrose
+player1 first
+round1 start
+player0's dices: ['ANEMO', 'GEO', 'DENDRO', 'GEO', 'OMNI', 'DENDRO', 'GEO', 'DENDRO']
+player1's dices: ['DENDRO', 'PYRO', 'CRYO', 'GEO', 'DENDRO', 'HYDRO', 'CRYO', 'ANEMO']
+player1's reroll index: [0, 1, 2, 3, 4, 5, 6]
+player1's dices: ['ANEMO', 'HYDRO', 'CRYO', 'PYRO', 'DENDRO', 'CRYO', 'OMNI', 'ELECTRO']
+player0's reroll index: [0, 1, 2, 3, 4, 6, 7]
+player0's dices: ['DENDRO', 'OMNI', 'ANEMO', 'CRYO', 'GEO', 'DENDRO', 'GEO', 'ELECTRO']
+player1's Sucrose use skill Wind Spirit Creation
+player0 play card Strategize
+player0's dices: ['DENDRO', 'OMNI', 'ANEMO', 'CRYO', 'DENDRO', 'GEO', 'ELECTRO']
+player0's hand cards: ['Jueyun Guoba', 'Minty Meat Rolls', 'Jueyun Guoba', "Adeptus' Temptation"]
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player0 play card Minty Meat Rolls
+player0's dices: ['DENDRO', 'OMNI', 'ANEMO', 'CRYO', 'DENDRO', 'ELECTRO']
+player0's hand cards: ['Jueyun Guoba', 'Minty Meat Rolls', 'Jueyun Guoba', "Adeptus' Temptation", 'Northern Smoked Chicken']
+player0 action element_tuning, use card Northern Smoked Chicken
+player0's dices: ['DENDRO', 'OMNI', 'ANEMO', 'CRYO', 'DENDRO', 'CRYO']
+player0's hand cards: ['Jueyun Guoba', 'Minty Meat Rolls', 'Jueyun Guoba', "Adeptus' Temptation"]
+player0's Diona use skill Icy Paws
+player1's Sucrose use skill Wind Spirit Creation
+player0 action round end
+player1 action round end
+round2 start
+player0's dices: ['PYRO', 'OMNI', 'DENDRO', 'ELECTRO', 'GEO', 'CRYO', 'ELECTRO', 'PYRO']
+player1's dices: ['PYRO', 'CRYO', 'HYDRO', 'DENDRO', 'GEO', 'PYRO', 'ELECTRO', 'CRYO']
+player1's reroll index: [0, 1, 2, 3, 4, 5, 6, 7]
+player1's dices: ['CRYO', 'DENDRO', 'GEO', 'DENDRO', 'ELECTRO', 'PYRO', 'HYDRO', 'DENDRO']
+player0's reroll index: [0, 2, 3, 4, 6, 7]
+player0's dices: ['OMNI', 'CRYO', 'GEO', 'ELECTRO', 'DENDRO', 'ANEMO', 'GEO', 'CRYO']
+player0 play card Adeptus' Temptation
+player0's dices: ['OMNI', 'CRYO', 'GEO', 'ANEMO', 'GEO', 'CRYO']
+player0's hand cards: ['Jueyun Guoba', 'Minty Meat Rolls', 'Jueyun Guoba', "Guardian's Oath", 'Raven Bow']
+player0 change character from Diona to Ganyu, it's combat action

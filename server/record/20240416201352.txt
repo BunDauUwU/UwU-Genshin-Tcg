@@ -1,0 +1,85 @@
+seed: 1713273232.0462725
+player0's characters: ['Ganyu', 'Diona', 'Sucrose']
+player1's characters: ['Ganyu', 'Diona', 'Sucrose']
+player0's hand cards: ["Adeptus' Temptation", 'Minty Meat Rolls', 'Northern Smoked Chicken', 'Northern Smoked Chicken', 'Mushroom Pizza']
+player1's hand cards: ['Undivided Heart', 'Northern Smoked Chicken', "Adeptus' Temptation", 'Send Off', 'Mushroom Pizza']
+player1's redraw index: [1, 2, 3, 4]
+player0's redraw index: [0, 1, 2, 3, 4]
+player0's hand cards: ["Adeptus' Temptation", 'Send Off', "Guardian's Oath", "Calx's Arts", "Blessing of the Divine Relic's Installation"]
+player1's hand cards: ['Undivided Heart', 'Minty Meat Rolls', 'Minty Meat Rolls', "Calx's Arts", 'Strategize']
+player0 choose active character Sucrose
+player1 choose active character Diona
+player0 first
+round1 start
+player0's dices: ['DENDRO', 'DENDRO', 'OMNI', 'CRYO', 'CRYO', 'GEO', 'ANEMO', 'CRYO']
+player1's dices: ['GEO', 'PYRO', 'PYRO', 'PYRO', 'GEO', 'ANEMO', 'PYRO', 'ANEMO']
+player1's reroll index: [0, 1, 2, 3, 4, 5, 6, 7]
+player1's dices: ['ELECTRO', 'GEO', 'CRYO', 'CRYO', 'CRYO', 'PYRO', 'DENDRO', 'CRYO']
+player0's reroll index: [0, 1, 3, 4, 5, 7]
+player0's dices: ['OMNI', 'ANEMO', 'DENDRO', 'GEO', 'ANEMO', 'HYDRO', 'GEO', 'CRYO']
+player0's Sucrose use skill Wind Spirit Creation
+player1 play card Strategize
+player1's dices: ['ELECTRO', 'GEO', 'CRYO', 'CRYO', 'CRYO', 'PYRO', 'CRYO']
+player1's hand cards: ['Undivided Heart', 'Minty Meat Rolls', 'Minty Meat Rolls', "Calx's Arts"]
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player1 play card Strategize
+player1's dices: ['ELECTRO', 'GEO', 'CRYO', 'CRYO', 'CRYO', 'CRYO']
+player1's hand cards: ['Undivided Heart', 'Minty Meat Rolls', 'Minty Meat Rolls', "Calx's Arts", 'Send Off']
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player1 play card Minty Meat Rolls
+player1's dices: ['GEO', 'CRYO', 'CRYO', 'CRYO', 'CRYO']
+player1's hand cards: ['Undivided Heart', 'Minty Meat Rolls', "Calx's Arts", 'Send Off', 'Mondstadt Hash Brown', "Adeptus' Temptation"]
+player1's Diona use skill Icy Paws
+player0 change character from Sucrose to Diona, it's combat action
+player1 action round end
+player0's Diona use skill Kätzlein Style
+player0 action round end
+round2 start
+player0's dices: ['ANEMO', 'OMNI', 'GEO', 'HYDRO', 'DENDRO', 'ELECTRO', 'DENDRO', 'DENDRO']
+player1's dices: ['GEO', 'ANEMO', 'ELECTRO', 'DENDRO', 'DENDRO', 'GEO', 'GEO', 'HYDRO']
+player0's reroll index: [0, 2, 3, 4, 5, 6, 7]
+player0's dices: ['OMNI', 'GEO', 'GEO', 'GEO', 'HYDRO', 'DENDRO', 'ELECTRO', 'CRYO']
+player1's reroll index: [0, 1, 2, 3, 4, 5, 6, 7]
+player1's dices: ['ELECTRO', 'PYRO', 'OMNI', 'HYDRO', 'PYRO', 'ELECTRO', 'OMNI', 'HYDRO']
+player1 action element_tuning, use card Lotus Flower Crisp
+player1's dices: ['ELECTRO', 'OMNI', 'HYDRO', 'PYRO', 'ELECTRO', 'OMNI', 'HYDRO', 'CRYO']
+player1's hand cards: ['Undivided Heart', 'Minty Meat Rolls', "Calx's Arts", 'Send Off', 'Mondstadt Hash Brown', "Adeptus' Temptation", 'Northern Smoked Chicken']
+player1 action element_tuning, use card Northern Smoked Chicken
+player1's dices: ['ELECTRO', 'OMNI', 'HYDRO', 'ELECTRO', 'OMNI', 'HYDRO', 'CRYO', 'CRYO']
+player1's hand cards: ['Undivided Heart', 'Minty Meat Rolls', "Calx's Arts", 'Send Off', 'Mondstadt Hash Brown', "Adeptus' Temptation"]
+player1 change character from Diona to Ganyu, it's combat action
+player0 play card Calx's Arts
+player0's dices: ['OMNI', 'GEO', 'GEO', 'GEO', 'HYDRO', 'ELECTRO', 'CRYO']
+player0's hand cards: ["Adeptus' Temptation", 'Send Off', "Guardian's Oath", "Blessing of the Divine Relic's Installation", 'Sacrificial Bow', 'Raven Bow']
+player0's Diona use skill Kätzlein Style
+player1 play card Calx's Arts
+player1's dices: ['OMNI', 'HYDRO', 'OMNI', 'HYDRO', 'CRYO', 'CRYO']
+player1's hand cards: ['Undivided Heart', 'Minty Meat Rolls', 'Send Off', 'Mondstadt Hash Brown', "Adeptus' Temptation"]
+player1 play card Minty Meat Rolls
+player1's dices: ['OMNI', 'OMNI', 'HYDRO', 'CRYO', 'CRYO']
+player1's hand cards: ['Undivided Heart', 'Send Off', 'Mondstadt Hash Brown', "Adeptus' Temptation"]
+player1's Ganyu use skill Liutian Archery
+player0's Diona use skill Kätzlein Style
+player1 action round end
+player0 action round end
+round3 start
+player0's dices: ['OMNI', 'HYDRO', 'PYRO', 'GEO', 'OMNI', 'PYRO', 'ELECTRO', 'OMNI']
+player1's dices: ['DENDRO', 'PYRO', 'CRYO', 'GEO', 'PYRO', 'OMNI', 'PYRO', 'DENDRO']
+player1's reroll index: [0, 1, 3, 4, 6, 7]
+player1's dices: ['CRYO', 'OMNI', 'ANEMO', 'OMNI', 'CRYO', 'DENDRO', 'CRYO', 'OMNI']
+player0's reroll index: [1, 2, 3, 5, 6, 7]
+player0's dices: ['OMNI', 'OMNI', 'ELECTRO', 'HYDRO', 'OMNI', 'ELECTRO', 'HYDRO', 'HYDRO']
+player1 play card Jueyun Guoba
+player1's dices: ['CRYO', 'OMNI', 'ANEMO', 'OMNI', 'CRYO', 'DENDRO', 'CRYO', 'OMNI']
+player1's hand cards: ['Undivided Heart', 'Send Off', 'Mondstadt Hash Brown', "Adeptus' Temptation", "Guardian's Oath"]
+player1's Ganyu use skill Frostflake Arrow
+player1's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+trigger Jueyun Guoba_0, effect is {'effect_type': 'DMG', 'effect_value': '+1'}
+player0's Diona use skill Signature Mix
+trigger Signature Mix_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+player1 action element_tuning, use card Adeptus' Temptation
+player1's dices: ['ANEMO', 'OMNI', 'CRYO']
+player1's hand cards: ['Undivided Heart', 'Send Off', 'Mondstadt Hash Brown', "Guardian's Oath"]
+player1 action element_tuning, use card Mondstadt Hash Brown
+player1's dices: ['OMNI', 'CRYO', 'CRYO']
+player1's hand cards: ['Undivided Heart', 'Send Off', "Guardian's Oath"]

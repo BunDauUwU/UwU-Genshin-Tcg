@@ -1,0 +1,26 @@
+seed: 1713370053.0647388
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['Chang the Ninth', 'Favonius Cathedral', "Calx's Arts", 'Quick Knit', "Calx's Arts"]
+player1's hand cards: ['The Bestest Travel Companion!', 'Sacrificial Sword', 'Leave It to Me!', 'Raven Bow', 'Toss-Up']
+player1's redraw index: []
+player0's redraw index: []
+player0's hand cards: ['Chang the Ninth', 'Favonius Cathedral', "Calx's Arts", 'Quick Knit', "Calx's Arts"]
+player1's hand cards: ['The Bestest Travel Companion!', 'Sacrificial Sword', 'Leave It to Me!', 'Raven Bow', 'Toss-Up']
+player0 choose active character Xiangling
+player1 choose active character Bennett
+player0 first
+round1 start
+player0's dices: ['CRYO', 'CRYO', 'PYRO', 'PYRO', 'CRYO', 'OMNI', 'ELECTRO', 'HYDRO']
+player1's dices: ['DENDRO', 'GEO', 'PYRO', 'ELECTRO', 'DENDRO', 'OMNI', 'DENDRO', 'ANEMO']
+player1's reroll index: [0, 1, 3, 4, 6, 7]
+player1's dices: ['PYRO', 'OMNI', 'HYDRO', 'HYDRO', 'CRYO', 'ANEMO', 'OMNI', 'GEO']
+player0's reroll index: [0, 1, 4, 6, 7]
+player0's dices: ['PYRO', 'PYRO', 'OMNI', 'HYDRO', 'ANEMO', 'OMNI', 'GEO', 'HYDRO']
+player0 play card Chang the Ninth
+player0's dices: ['PYRO', 'PYRO', 'OMNI', 'HYDRO', 'ANEMO', 'OMNI', 'GEO', 'HYDRO']
+player0's hand cards: ['Favonius Cathedral', "Calx's Arts", 'Quick Knit', "Calx's Arts"]
+player0 play card Favonius Cathedral
+player0's dices: ['PYRO', 'PYRO', 'OMNI', 'ANEMO', 'OMNI', 'GEO']
+player0's hand cards: ["Calx's Arts", 'Quick Knit', "Calx's Arts"]
+player0's Xiangling use skill Guoba Attack

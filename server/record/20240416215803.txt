@@ -1,0 +1,103 @@
+seed: 1713279483.6037629
+player0's characters: ['Ganyu', 'Diona', 'Sucrose']
+player1's characters: ['Ganyu', 'Diona', 'Sucrose']
+player0's hand cards: ['Mondstadt Hash Brown', 'Northern Smoked Chicken', 'Toss-Up', 'Mushroom Pizza', "Guardian's Oath"]
+player1's hand cards: ['Skyward Harp', 'Lotus Flower Crisp', "Guardian's Oath", "Calx's Arts", "Blessing of the Divine Relic's Installation"]
+player0's redraw index: [4]
+player1's redraw index: [4]
+player0's hand cards: ['Mondstadt Hash Brown', 'Northern Smoked Chicken', 'Toss-Up', 'Mushroom Pizza', 'Mushroom Pizza']
+player1's hand cards: ['Skyward Harp', 'Lotus Flower Crisp', "Guardian's Oath", "Calx's Arts", 'Send Off']
+player0 choose active character Sucrose
+player1 choose active character Ganyu
+player0 first
+round1 start
+player0's dices: ['GEO', 'HYDRO', 'ANEMO', 'ELECTRO', 'PYRO', 'ANEMO', 'ANEMO', 'GEO']
+player1's dices: ['ANEMO', 'ANEMO', 'HYDRO', 'ANEMO', 'OMNI', 'ANEMO', 'OMNI', 'HYDRO']
+player0's reroll index: [0, 1, 3, 4, 7]
+player0's dices: ['ANEMO', 'ANEMO', 'ANEMO', 'HYDRO', 'DENDRO', 'ELECTRO', 'GEO', 'ANEMO']
+player1's reroll index: [0, 1, 2, 3, 5, 7]
+player1's dices: ['OMNI', 'OMNI', 'GEO', 'HYDRO', 'GEO', 'CRYO', 'DENDRO', 'DENDRO']
+player0 play card Toss-Up
+player0's dices: ['ANEMO', 'ANEMO', 'ANEMO', 'HYDRO', 'DENDRO', 'ELECTRO', 'GEO', 'ANEMO']
+player0's hand cards: ['Mondstadt Hash Brown', 'Northern Smoked Chicken', 'Mushroom Pizza', 'Mushroom Pizza']
+player0's reroll index: [3, 4, 5, 6]
+player0's dices: ['ANEMO', 'ANEMO', 'ANEMO', 'ANEMO', 'ANEMO', 'PYRO', 'DENDRO', 'OMNI']
+player0's reroll index: [5, 6]
+player0's dices: ['ANEMO', 'ANEMO', 'ANEMO', 'ANEMO', 'ANEMO', 'OMNI', 'PYRO', 'DENDRO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0's Sucrose use skill Astable Anemohypostasis Creation - 6308
+player1 action element_tuning, use card Guardian's Oath
+player1's dices: ['OMNI', 'OMNI', 'GEO', 'GEO', 'CRYO', 'DENDRO', 'DENDRO', 'CRYO']
+player1's hand cards: ['Skyward Harp', 'Lotus Flower Crisp', "Calx's Arts", 'Send Off']
+player1 action element_tuning, use card Send Off
+player1's dices: ['OMNI', 'OMNI', 'GEO', 'GEO', 'CRYO', 'DENDRO', 'CRYO', 'CRYO']
+player1's hand cards: ['Skyward Harp', 'Lotus Flower Crisp', "Calx's Arts"]
+player1's Ganyu use skill Frostflake Arrow
+player1's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player0's Sucrose use skill Astable Anemohypostasis Creation - 6308
+player1 action element_tuning, use card Skyward Harp
+player1's dices: ['GEO', 'GEO', 'CRYO']
+player1's hand cards: ['Lotus Flower Crisp', "Calx's Arts"]
+player1's Ganyu use skill Liutian Archery
+player0 action round end
+player1 action round end
+round2 start
+player0's dices: ['HYDRO', 'DENDRO', 'DENDRO', 'HYDRO', 'GEO', 'OMNI', 'CRYO', 'ANEMO']
+player1's dices: ['ANEMO', 'DENDRO', 'DENDRO', 'ANEMO', 'DENDRO', 'GEO', 'PYRO', 'PYRO']
+player1's reroll index: [0, 1, 2, 3, 4, 5, 6, 7]
+player1's dices: ['CRYO', 'PYRO', 'OMNI', 'GEO', 'DENDRO', 'HYDRO', 'ELECTRO', 'ELECTRO']
+player0's reroll index: [0, 1, 2, 3, 4, 6]
+player0's dices: ['OMNI', 'ANEMO', 'ANEMO', 'GEO', 'GEO', 'PYRO', 'GEO', 'GEO']
+player0 play card Strategize
+player0's dices: ['OMNI', 'ANEMO', 'ANEMO', 'GEO', 'GEO', 'GEO', 'GEO']
+player0's hand cards: ['Mondstadt Hash Brown', 'Northern Smoked Chicken', 'Mushroom Pizza', 'Mushroom Pizza', "Guardian's Oath"]
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player0's Sucrose use skill Astable Anemohypostasis Creation - 6308
+player1 change character from Ganyu to Sucrose, it's combat action
+player0 action element_tuning, use card Blessing of the Divine Relic's Installation
+player0's dices: ['GEO', 'GEO', 'GEO', 'ANEMO']
+player0's hand cards: ['Mondstadt Hash Brown', 'Northern Smoked Chicken', 'Mushroom Pizza', 'Mushroom Pizza', "Guardian's Oath", 'Jueyun Guoba']
+player0 action element_tuning, use card Mondstadt Hash Brown
+player0's dices: ['GEO', 'GEO', 'ANEMO', 'ANEMO']
+player0's hand cards: ['Northern Smoked Chicken', 'Mushroom Pizza', 'Mushroom Pizza', "Guardian's Oath", 'Jueyun Guoba']
+player0 action element_tuning, use card Northern Smoked Chicken
+player0's dices: ['GEO', 'ANEMO', 'ANEMO', 'ANEMO']
+player0's hand cards: ['Mushroom Pizza', 'Mushroom Pizza', "Guardian's Oath", 'Jueyun Guoba']
+player0's Sucrose use skill Forbidden Creation - Isomer 75 / Type II
+player1 play card Calx's Arts
+player1's dices: ['CRYO', 'PYRO', 'OMNI', 'GEO', 'ELECTRO', 'ELECTRO']
+player1's hand cards: ['Lotus Flower Crisp', 'Strategize', 'Toss-Up']
+player1's Sucrose use skill Wind Spirit Creation
+player0 play card Mushroom Pizza
+player0's dices: []
+player0's hand cards: ['Mushroom Pizza', "Guardian's Oath", 'Jueyun Guoba']
+player0 action round end
+player1 action round end
+trigger Mushroom Pizza_1, effect is {'effect_type': 'HEAL', 'effect_value': 1}
+round3 start
+player0's dices: ['CRYO', 'GEO', 'GEO', 'GEO', 'DENDRO', 'ANEMO', 'OMNI', 'CRYO']
+player1's dices: ['ELECTRO', 'OMNI', 'GEO', 'DENDRO', 'HYDRO', 'PYRO', 'ELECTRO', 'GEO']
+player0's reroll index: [1, 2, 3, 4, 5]
+player0's dices: ['CRYO', 'OMNI', 'CRYO', 'DENDRO', 'ELECTRO', 'HYDRO', 'GEO', 'ELECTRO']
+player1's reroll index: [0, 2, 3, 4, 5, 6, 7]
+player1's dices: ['OMNI', 'OMNI', 'HYDRO', 'GEO', 'ELECTRO', 'OMNI', 'DENDRO', 'HYDRO']
+player0 play card Adeptus' Temptation
+player0's dices: ['CRYO', 'OMNI', 'CRYO', 'ELECTRO', 'GEO', 'ELECTRO']
+player0's hand cards: ['Mushroom Pizza', "Guardian's Oath", 'Jueyun Guoba', 'Lotus Flower Crisp']
+player0 action element_tuning, use card Guardian's Oath
+player0's dices: ['CRYO', 'OMNI', 'CRYO', 'ELECTRO', 'ELECTRO', 'ANEMO']
+player0's hand cards: ['Mushroom Pizza', 'Jueyun Guoba', 'Lotus Flower Crisp']
+player0 action element_tuning, use card Lotus Flower Crisp
+player0's dices: ['CRYO', 'OMNI', 'CRYO', 'ELECTRO', 'ANEMO', 'ANEMO']
+player0's hand cards: ['Mushroom Pizza', 'Jueyun Guoba']
+player0's Sucrose use skill Astable Anemohypostasis Creation - 6308
+player1 play card Toss-Up
+player1's dices: ['OMNI', 'OMNI', 'HYDRO', 'GEO', 'ELECTRO', 'OMNI', 'DENDRO', 'HYDRO']
+player1's hand cards: ['Lotus Flower Crisp', 'Strategize', "Adeptus' Temptation", 'Lotus Flower Crisp']
+player1's reroll index: [2, 3, 4, 6, 7]
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'PYRO', 'CRYO', 'PYRO', 'DENDRO', 'DENDRO']
+player1's reroll index: [3, 4, 5, 6, 7]
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'HYDRO', 'ELECTRO', 'CRYO', 'ELECTRO', 'OMNI']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player1's Sucrose use skill Forbidden Creation - Isomer 75 / Type II
+player0 change character from Sucrose to Ganyu, it's combat action

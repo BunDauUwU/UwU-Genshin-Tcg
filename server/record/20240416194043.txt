@@ -1,0 +1,35 @@
+seed: 1713271243.0366213
+player0's characters: ['Ganyu', 'Diona', 'Sucrose']
+player1's characters: ['Ganyu', 'Diona', 'Sucrose']
+player0's hand cards: ['Toss-Up', "Blessing of the Divine Relic's Installation", 'Strategize', "Guardian's Oath", "Calx's Arts"]
+player1's hand cards: ['Lotus Flower Crisp', 'Undivided Heart', 'Minty Meat Rolls', 'Minty Meat Rolls', 'Mondstadt Hash Brown']
+player0's redraw index: []
+player1's redraw index: []
+player0's hand cards: ['Toss-Up', "Blessing of the Divine Relic's Installation", 'Strategize', "Guardian's Oath", "Calx's Arts"]
+player1's hand cards: ['Lotus Flower Crisp', 'Undivided Heart', 'Minty Meat Rolls', 'Minty Meat Rolls', 'Mondstadt Hash Brown']
+player0 choose active character Sucrose
+player1 choose active character Ganyu
+player0 first
+round1 start
+player0's dices: ['PYRO', 'PYRO', 'DENDRO', 'CRYO', 'ANEMO', 'OMNI', 'ELECTRO', 'PYRO']
+player1's dices: ['DENDRO', 'OMNI', 'ELECTRO', 'DENDRO', 'OMNI', 'ELECTRO', 'ANEMO', 'DENDRO']
+player0's reroll index: []
+player0's dices: ['PYRO', 'PYRO', 'DENDRO', 'CRYO', 'ANEMO', 'OMNI', 'ELECTRO', 'PYRO']
+player1's reroll index: [0, 2, 3, 5, 7]
+player1's dices: ['OMNI', 'OMNI', 'ANEMO', 'GEO', 'OMNI', 'HYDRO', 'HYDRO', 'OMNI']
+player0 action element_tuning, use card Guardian's Oath
+player0's dices: ['PYRO', 'PYRO', 'CRYO', 'ANEMO', 'OMNI', 'ELECTRO', 'PYRO', 'ANEMO']
+player0's hand cards: ['Toss-Up', "Blessing of the Divine Relic's Installation", 'Strategize', "Calx's Arts"]
+player0 play card Strategize
+player0's dices: ['PYRO', 'CRYO', 'ANEMO', 'OMNI', 'ELECTRO', 'PYRO', 'ANEMO']
+player0's hand cards: ['Toss-Up', "Blessing of the Divine Relic's Installation", "Calx's Arts"]
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player0 play card Toss-Up
+player0's dices: ['PYRO', 'CRYO', 'ANEMO', 'OMNI', 'ELECTRO', 'PYRO', 'ANEMO']
+player0's hand cards: ["Blessing of the Divine Relic's Installation", "Calx's Arts", 'Northern Smoked Chicken', 'Undivided Heart']
+player0's reroll index: [0, 4, 5]
+player0's dices: ['CRYO', 'ANEMO', 'OMNI', 'ANEMO', 'PYRO', 'GEO', 'OMNI']
+player0's reroll index: [4, 5]
+player0's dices: ['CRYO', 'ANEMO', 'OMNI', 'ANEMO', 'OMNI', 'PYRO', 'ELECTRO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0's Sucrose use skill Astable Anemohypostasis Creation - 6308

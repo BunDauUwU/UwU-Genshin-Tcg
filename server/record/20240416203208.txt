@@ -1,0 +1,63 @@
+seed: 1713274328.788907
+player0's characters: ['Ganyu', 'Diona', 'Sucrose']
+player1's characters: ['Ganyu', 'Diona', 'Sucrose']
+player0's hand cards: ['Strategize', "Guardian's Oath", 'Mushroom Pizza', "Blessing of the Divine Relic's Installation", 'Toss-Up']
+player1's hand cards: ["Guardian's Oath", 'Lotus Flower Crisp', 'Lotus Flower Crisp', 'Strategize', "Calx's Arts"]
+player1's redraw index: []
+player0's redraw index: []
+player0's hand cards: ['Strategize', "Guardian's Oath", 'Mushroom Pizza', "Blessing of the Divine Relic's Installation", 'Toss-Up']
+player1's hand cards: ["Guardian's Oath", 'Lotus Flower Crisp', 'Lotus Flower Crisp', 'Strategize', "Calx's Arts"]
+player0 choose active character Ganyu
+player1 choose active character Sucrose
+player1 first
+round1 start
+player0's dices: ['PYRO', 'ELECTRO', 'HYDRO', 'PYRO', 'GEO', 'ANEMO', 'PYRO', 'HYDRO']
+player1's dices: ['CRYO', 'ELECTRO', 'PYRO', 'ELECTRO', 'PYRO', 'CRYO', 'PYRO', 'HYDRO']
+player1's reroll index: [0, 1, 2, 3, 4, 5, 6, 7]
+player1's dices: ['ANEMO', 'ANEMO', 'CRYO', 'CRYO', 'ELECTRO', 'CRYO', 'ELECTRO', 'ELECTRO']
+player0's reroll index: [0, 1, 2, 3, 4, 5, 6, 7]
+player0's dices: ['PYRO', 'GEO', 'GEO', 'PYRO', 'HYDRO', 'CRYO', 'ANEMO', 'HYDRO']
+player1 play card Strategize
+player1's dices: ['ANEMO', 'ANEMO', 'CRYO', 'CRYO', 'CRYO', 'ELECTRO', 'ELECTRO']
+player1's hand cards: ["Guardian's Oath", 'Lotus Flower Crisp', 'Lotus Flower Crisp', "Calx's Arts"]
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player1's Sucrose use skill Wind Spirit Creation
+player0 play card Toss-Up
+player0's dices: ['PYRO', 'GEO', 'GEO', 'PYRO', 'HYDRO', 'CRYO', 'ANEMO', 'HYDRO']
+player0's hand cards: ['Strategize', "Guardian's Oath", 'Mushroom Pizza', "Blessing of the Divine Relic's Installation"]
+player0's reroll index: [0, 1, 2, 3, 4, 6, 7]
+player0's dices: ['CRYO', 'DENDRO', 'ANEMO', 'CRYO', 'ANEMO', 'PYRO', 'OMNI', 'HYDRO']
+player0's reroll index: [1, 2, 4, 5, 7]
+player0's dices: ['CRYO', 'CRYO', 'OMNI', 'OMNI', 'OMNI', 'ELECTRO', 'PYRO', 'GEO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0 play card Strategize
+player0's dices: ['CRYO', 'CRYO', 'OMNI', 'OMNI', 'OMNI', 'ELECTRO', 'GEO']
+player0's hand cards: ["Guardian's Oath", 'Mushroom Pizza', "Blessing of the Divine Relic's Installation"]
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player0's Ganyu use skill Frostflake Arrow
+player0's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player1 change character from Sucrose to Diona, it's combat action
+player0 play card Adeptus' Temptation
+player0's dices: []
+player0's hand cards: ["Guardian's Oath", 'Mushroom Pizza', "Blessing of the Divine Relic's Installation", 'Lotus Flower Crisp']
+player0 action round end
+player1's Diona use skill Icy Paws
+player1 action round end
+round2 start
+player0's dices: ['ELECTRO', 'CRYO', 'GEO', 'ELECTRO', 'PYRO', 'ELECTRO', 'DENDRO', 'ELECTRO']
+player1's dices: ['DENDRO', 'HYDRO', 'PYRO', 'CRYO', 'HYDRO', 'GEO', 'ELECTRO', 'OMNI']
+player0's reroll index: [0, 2, 3, 4, 5, 6, 7]
+player0's dices: ['CRYO', 'OMNI', 'ELECTRO', 'ANEMO', 'DENDRO', 'OMNI', 'ELECTRO', 'ANEMO']
+player1's reroll index: [0, 1, 2, 4, 5, 6]
+player1's dices: ['CRYO', 'OMNI', 'OMNI', 'ANEMO', 'CRYO', 'CRYO', 'PYRO', 'DENDRO']
+player0 action element_tuning, use card Mushroom Pizza
+player0's dices: ['CRYO', 'OMNI', 'ELECTRO', 'ANEMO', 'OMNI', 'ELECTRO', 'ANEMO', 'CRYO']
+player0's hand cards: ["Guardian's Oath", 'Mushroom Pizza', "Blessing of the Divine Relic's Installation", 'Lotus Flower Crisp', 'Northern Smoked Chicken']
+player0 action element_tuning, use card Northern Smoked Chicken
+player0's dices: ['CRYO', 'OMNI', 'ANEMO', 'OMNI', 'ELECTRO', 'ANEMO', 'CRYO', 'CRYO']
+player0's hand cards: ["Guardian's Oath", 'Mushroom Pizza', "Blessing of the Divine Relic's Installation", 'Lotus Flower Crisp']
+player0's Ganyu use skill Frostflake Arrow
+player0's Ganyu counter Frostflake Arrow change from 1 to 2trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player1 play card Calx's Arts
+player1's dices: ['CRYO', 'OMNI', 'OMNI', 'ANEMO', 'CRYO', 'CRYO', 'PYRO']
+player1's hand cards: ["Guardian's Oath", 'Lotus Flower Crisp', 'Lotus Flower Crisp', "Adeptus' Temptation", 'Lotus Flower Crisp', 'Mushroom Pizza', 'Minty Meat Rolls']

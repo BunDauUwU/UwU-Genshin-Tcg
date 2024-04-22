@@ -1,0 +1,6 @@
+Pillow
+python-socketio
+
+customtkinter
+pyqt6
+pywinstyles

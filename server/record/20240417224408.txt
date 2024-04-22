@@ -1,0 +1,5 @@
+seed: 1713368648.9506164
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['Paimon', 'Quick Knit', 'Paimon', 'Changing Shifts', 'Toss-Up']
+player1's hand cards: ['Katheryne', 'Elemental Resonance Fervent Flames', 'Leave It to Me!', 'Toss-Up', 'Changing Shifts']

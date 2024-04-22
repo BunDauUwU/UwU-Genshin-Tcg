@@ -1,0 +1,28 @@
+seed: 1713281481.3500378
+player0's characters: ['Ganyu', 'Diona', 'Sucrose']
+player1's characters: ['Ganyu', 'Diona', 'Sucrose']
+player0's hand cards: ["Adeptus' Temptation", 'Skyward Harp', 'Jueyun Guoba', 'Lotus Flower Crisp', 'Send Off']
+player1's hand cards: ["Adeptus' Temptation", 'Toss-Up', "Calx's Arts", 'Jueyun Guoba', 'Strategize']
+player0's redraw index: [4]
+player1's redraw index: []
+player0's hand cards: ["Adeptus' Temptation", 'Skyward Harp', 'Jueyun Guoba', 'Lotus Flower Crisp', 'Toss-Up']
+player1's hand cards: ["Adeptus' Temptation", 'Toss-Up', "Calx's Arts", 'Jueyun Guoba', 'Strategize']
+player0 choose active character Sucrose
+player1 choose active character Ganyu
+player0 first
+round1 start
+player0's dices: ['ELECTRO', 'CRYO', 'ELECTRO', 'GEO', 'GEO', 'GEO', 'ELECTRO', 'DENDRO']
+player1's dices: ['HYDRO', 'GEO', 'ELECTRO', 'CRYO', 'ELECTRO', 'HYDRO', 'ANEMO', 'ANEMO']
+player0's reroll index: [0, 1, 2, 3, 4, 5, 6, 7]
+player0's dices: ['HYDRO', 'OMNI', 'PYRO', 'OMNI', 'GEO', 'OMNI', 'CRYO', 'GEO']
+player1's reroll index: [0, 1, 2, 4, 5, 6, 7]
+player1's dices: ['CRYO', 'HYDRO', 'ELECTRO', 'DENDRO', 'HYDRO', 'HYDRO', 'OMNI', 'OMNI']
+player0 play card Toss-Up
+player0's dices: ['HYDRO', 'OMNI', 'PYRO', 'OMNI', 'GEO', 'OMNI', 'CRYO', 'GEO']
+player0's hand cards: ["Adeptus' Temptation", 'Skyward Harp', 'Jueyun Guoba', 'Lotus Flower Crisp']
+player0's reroll index: [0, 2, 4, 6, 7]
+player0's dices: ['OMNI', 'OMNI', 'OMNI', 'DENDRO', 'ELECTRO', 'DENDRO', 'HYDRO', 'ANEMO']
+player0's reroll index: [3, 4, 5, 6]
+player0's dices: ['OMNI', 'OMNI', 'OMNI', 'ANEMO', 'ANEMO', 'PYRO', 'DENDRO', 'DENDRO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0's Sucrose use skill Astable Anemohypostasis Creation - 6308

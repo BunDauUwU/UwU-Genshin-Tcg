@@ -1,0 +1,67 @@
+seed: 1713276206.0434425
+player0's characters: ['Ganyu', 'Diona', 'Sucrose']
+player1's characters: ['Ganyu', 'Diona', 'Sucrose']
+player0's hand cards: ['Northern Smoked Chicken', 'Toss-Up', 'Strategize', "Guardian's Oath", 'Northern Smoked Chicken']
+player1's hand cards: ["Blessing of the Divine Relic's Installation", 'Raven Bow', 'Mondstadt Hash Brown', 'Send Off', 'Minty Meat Rolls']
+player1's redraw index: [0, 2, 4]
+player0's redraw index: [0, 3, 4]
+player0's hand cards: ['Toss-Up', 'Strategize', "Guardian's Oath", 'Minty Meat Rolls', "Calx's Arts"]
+player1's hand cards: ['Raven Bow', 'Send Off', 'Northern Smoked Chicken', 'Skyward Harp', 'Lotus Flower Crisp']
+player0 choose active character Ganyu
+player1 choose active character Diona
+player0 first
+round1 start
+player0's dices: ['ANEMO', 'OMNI', 'OMNI', 'ANEMO', 'DENDRO', 'HYDRO', 'PYRO', 'ELECTRO']
+player1's dices: ['PYRO', 'PYRO', 'GEO', 'CRYO', 'CRYO', 'CRYO', 'ELECTRO', 'PYRO']
+player1's reroll index: [0, 1, 2, 3, 6, 7]
+player1's dices: ['CRYO', 'CRYO', 'CRYO', 'ELECTRO', 'GEO', 'HYDRO', 'DENDRO', 'HYDRO']
+player0's reroll index: [0, 3, 4, 5, 6, 7]
+player0's dices: ['OMNI', 'OMNI', 'PYRO', 'GEO', 'GEO', 'PYRO', 'OMNI', 'OMNI']
+player0 play card Strategize
+player0's dices: ['OMNI', 'OMNI', 'GEO', 'GEO', 'PYRO', 'OMNI', 'OMNI']
+player0's hand cards: ['Toss-Up', "Guardian's Oath", 'Minty Meat Rolls', "Calx's Arts"]
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player0 play card Toss-Up
+player0's dices: ['OMNI', 'OMNI', 'GEO', 'GEO', 'PYRO', 'OMNI', 'OMNI']
+player0's hand cards: ["Guardian's Oath", 'Minty Meat Rolls', "Calx's Arts", 'Mondstadt Hash Brown', 'Northern Smoked Chicken']
+player0's reroll index: [2, 3, 4]
+player0's dices: ['OMNI', 'OMNI', 'OMNI', 'OMNI', 'PYRO', 'PYRO', 'CRYO']
+player0's reroll index: [4, 5]
+player0's dices: ['OMNI', 'OMNI', 'OMNI', 'OMNI', 'CRYO', 'ELECTRO', 'OMNI']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0's Ganyu use skill Frostflake Arrow
+player0's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player1's Diona use skill Icy Paws
+player0 action round end
+player1 action element_tuning, use card Lotus Flower Crisp
+player1's dices: ['GEO', 'HYDRO', 'DENDRO', 'HYDRO', 'CRYO']
+player1's hand cards: ['Raven Bow', 'Send Off', 'Northern Smoked Chicken', 'Skyward Harp']
+player1 action element_tuning, use card Raven Bow
+player1's dices: ['GEO', 'HYDRO', 'HYDRO', 'CRYO', 'CRYO']
+player1's hand cards: ['Send Off', 'Northern Smoked Chicken', 'Skyward Harp']
+player1 action element_tuning, use card Send Off
+player1's dices: ['HYDRO', 'HYDRO', 'CRYO', 'CRYO', 'CRYO']
+player1's hand cards: ['Northern Smoked Chicken', 'Skyward Harp']
+player1's Diona use skill Icy Paws
+player1 action round end
+round2 start
+player0's dices: ['ANEMO', 'ANEMO', 'PYRO', 'OMNI', 'CRYO', 'CRYO', 'ELECTRO', 'CRYO']
+player1's dices: ['ANEMO', 'CRYO', 'CRYO', 'DENDRO', 'ELECTRO', 'ANEMO', 'ANEMO', 'ANEMO']
+player1's reroll index: [0, 3, 4, 5, 6, 7]
+player1's dices: ['CRYO', 'CRYO', 'PYRO', 'ELECTRO', 'CRYO', 'HYDRO', 'ELECTRO', 'PYRO']
+player0's reroll index: [2, 4, 5, 6, 7]
+player0's dices: ['ANEMO', 'ANEMO', 'OMNI', 'PYRO', 'ELECTRO', 'OMNI', 'HYDRO', 'ELECTRO']
+player0 play card Toss-Up
+player0's dices: ['ANEMO', 'ANEMO', 'OMNI', 'PYRO', 'ELECTRO', 'OMNI', 'HYDRO', 'ELECTRO']
+player0's hand cards: ["Guardian's Oath", 'Minty Meat Rolls', "Calx's Arts", 'Mondstadt Hash Brown', 'Northern Smoked Chicken', 'Jueyun Guoba']
+player0's reroll index: [3, 4, 6, 7]
+player0's dices: ['ANEMO', 'ANEMO', 'OMNI', 'OMNI', 'HYDRO', 'HYDRO', 'HYDRO', 'GEO']
+player0's reroll index: [4, 5, 6, 7]
+player0's dices: ['ANEMO', 'ANEMO', 'OMNI', 'OMNI', 'PYRO', 'CRYO', 'PYRO', 'CRYO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0 change character from Ganyu to Sucrose, it's combat action
+player1's Diona use skill Icy Paws
+player0 play card Calx's Arts
+player0's dices: ['ANEMO', 'ANEMO', 'OMNI', 'OMNI', 'CRYO', 'CRYO']
+player0's hand cards: ["Guardian's Oath", 'Minty Meat Rolls', 'Mondstadt Hash Brown', 'Northern Smoked Chicken', 'Jueyun Guoba']
+player0's Sucrose use skill Astable Anemohypostasis Creation - 6308

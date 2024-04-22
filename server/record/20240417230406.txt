@@ -1,0 +1,19 @@
+seed: 1713369846.9591155
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['Raven Bow', 'Leave It to Me!', 'Paimon', 'Wagner', 'Changing Shifts']
+player1's hand cards: ["Calx's Arts", "Calx's Arts", 'Changing Shifts', 'Changing Shifts', 'Raven Bow']
+player1's redraw index: [1, 3]
+player0's redraw index: []
+player0's hand cards: ['Raven Bow', 'Leave It to Me!', 'Paimon', 'Wagner', 'Changing Shifts']
+player1's hand cards: ["Calx's Arts", 'Changing Shifts', 'Raven Bow', 'Quick Knit', 'The Bestest Travel Companion!']
+player0 choose active character Xiangling
+player1 choose active character Xiangling
+player0 first
+round1 start
+player0's dices: ['CRYO', 'ELECTRO', 'PYRO', 'OMNI', 'PYRO', 'GEO', 'PYRO', 'GEO']
+player1's dices: ['OMNI', 'HYDRO', 'DENDRO', 'GEO', 'DENDRO', 'OMNI', 'PYRO', 'ELECTRO']
+player1's reroll index: [1, 2, 3, 4, 7]
+player1's dices: ['OMNI', 'OMNI', 'PYRO', 'PYRO', 'DENDRO', 'HYDRO', 'ANEMO', 'CRYO']
+player0's reroll index: [0, 1, 5, 7]
+player0's dices: ['PYRO', 'OMNI', 'PYRO', 'PYRO', 'PYRO', 'ANEMO', 'GEO', 'CRYO']

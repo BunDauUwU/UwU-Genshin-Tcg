@@ -1,0 +1,97 @@
+seed: 1713111360.2492225
+player0's characters: ['Fischl', 'Collei', 'Keqing']
+player1's characters: ['Mona', 'Ganyu', 'Keqing']
+player0's hand cards: ['Mushroom Pizza', 'The Bestest Travel Companion!', 'Toss-Up', "I Haven't Lost Yet!", 'Toss-Up']
+player1's hand cards: ["Traveler's Handy Sword", 'Leave It to Me!', 'Mondstadt Hash Brown', 'Raven Bow', 'Lotus Flower Crisp']
+player0's redraw index: []
+player1's redraw index: [0, 3]
+player0's hand cards: ['Mushroom Pizza', 'The Bestest Travel Companion!', 'Toss-Up', "I Haven't Lost Yet!", 'Toss-Up']
+player1's hand cards: ['Leave It to Me!', 'Mondstadt Hash Brown', 'Lotus Flower Crisp', 'The Bestest Travel Companion!', 'Timmie']
+player1's Mona use skill Illusory Torrent
+player0 choose active character Fischl
+player1 choose active character Mona
+player1 first
+round1 start
+player0's dices: ['ELECTRO', 'OMNI', 'CRYO', 'OMNI', 'GEO', 'GEO', 'ANEMO', 'OMNI']
+player1's dices: ['DENDRO', 'ANEMO', 'ELECTRO', 'ANEMO', 'ELECTRO', 'DENDRO', 'OMNI', 'DENDRO']
+player0's reroll index: [2, 4, 5, 6]
+player0's dices: ['ELECTRO', 'OMNI', 'OMNI', 'OMNI', 'HYDRO', 'GEO', 'CRYO', 'HYDRO']
+player1's reroll index: [0, 1, 2, 3, 4, 7]
+player1's dices: ['DENDRO', 'OMNI', 'PYRO', 'CRYO', 'DENDRO', 'ELECTRO', 'HYDRO', 'GEO']
+player1 play card Timmie
+player1's dices: ['DENDRO', 'OMNI', 'PYRO', 'CRYO', 'DENDRO', 'ELECTRO', 'HYDRO', 'GEO']
+player1's hand cards: ['Leave It to Me!', 'Mondstadt Hash Brown', 'Lotus Flower Crisp', 'The Bestest Travel Companion!']
+player1's Timmie counter Pigeon change from 0 to 1trigger Timmie_0, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player1 play card The Bestest Travel Companion!
+player1's dices: ['DENDRO', 'OMNI', 'CRYO', 'DENDRO', 'ELECTRO', 'HYDRO']
+player1's hand cards: ['Leave It to Me!', 'Mondstadt Hash Brown', 'Lotus Flower Crisp']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player1's Mona use skill Mirror Reflection of Doom
+player0 play card Mushroom Pizza
+player0's dices: ['ELECTRO', 'OMNI', 'OMNI', 'OMNI', 'HYDRO', 'GEO', 'HYDRO']
+player0's hand cards: ['The Bestest Travel Companion!', 'Toss-Up', "I Haven't Lost Yet!", 'Toss-Up']
+player0's Fischl use skill Nightrider
+trigger Reflection_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+player1 play card Leave It to Me!
+player1's dices: ['DENDRO', 'CRYO', 'DENDRO', 'ELECTRO', 'OMNI']
+player1's hand cards: ['Mondstadt Hash Brown', 'Lotus Flower Crisp']
+trigger Illusory Torrent_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player1 change character from Mona to Ganyu, it's fast action
+player1 action element_tuning, use card Lotus Flower Crisp
+player1's dices: ['CRYO', 'ELECTRO', 'OMNI', 'CRYO']
+player1's hand cards: ['Mondstadt Hash Brown']
+player1's Ganyu use skill Trail of the Qilin
+player0 change character from Fischl to Collei, it's combat action
+player1 action round end
+player0 play card The Bestest Travel Companion!
+player0's dices: ['OMNI']
+player0's hand cards: ['Toss-Up', "I Haven't Lost Yet!", 'Toss-Up']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0's Collei use skill Floral Brush
+trigger Ice Lotus_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+player0 action round end
+trigger Reflection_1, effect is {'effect_type': 'HYDRO_DMG', 'effect_value': 1}
+trigger Mushroom Pizza_1, effect is {'effect_type': 'HEAL', 'effect_value': 1}
+trigger Ice Lotus_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+trigger Oz_0, effect is {'effect_type': 'ELECTRO_DMG', 'effect_value': 1}
+round2 start
+player1's Timmie counter Pigeon change from 1 to 2trigger Timmie_1, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player0's dices: ['ELECTRO', 'DENDRO', 'ELECTRO', 'ELECTRO', 'GEO', 'GEO', 'ELECTRO', 'GEO']
+player1's dices: ['ANEMO', 'CRYO', 'ELECTRO', 'HYDRO', 'CRYO', 'CRYO', 'PYRO', 'PYRO']
+player0's reroll index: [4, 5, 7]
+player0's dices: ['ELECTRO', 'DENDRO', 'ELECTRO', 'ELECTRO', 'ELECTRO', 'ELECTRO', 'CRYO', 'ANEMO']
+player1's reroll index: [0, 2, 3, 6, 7]
+player1's dices: ['CRYO', 'CRYO', 'CRYO', 'HYDRO', 'CRYO', 'OMNI', 'ANEMO', 'HYDRO']
+player1 play card Katheryne
+player1's dices: ['CRYO', 'CRYO', 'CRYO', 'CRYO', 'OMNI', 'HYDRO']
+player1's hand cards: ['Mondstadt Hash Brown', 'Strategize']
+player1 play card Mondstadt Hash Brown
+player1's dices: ['CRYO', 'CRYO', 'CRYO', 'CRYO', 'OMNI']
+player1's hand cards: ['Strategize']
+player1's Ganyu use skill Frostflake Arrow
+player1's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player0 play card Dawn Winery
+player0's dices: ['DENDRO', 'ELECTRO', 'ELECTRO', 'ELECTRO', 'CRYO', 'ANEMO']
+player0's hand cards: ['Toss-Up', "I Haven't Lost Yet!", 'Toss-Up', 'When the Crane Returned']
+trigger Dawn Winery_0, effect is {'effect_type': 'CHANGE_COST', 'effect_value': '-1'}
+player0 change character from Collei to Keqing, it's combat action
+player1 action round end
+player0's Keqing use skill Stellar Restoration
+trigger Catalyzing Field_0, effect is {'effect_type': 'DMG', 'effect_value': '+1'}
+player0 play card When the Crane Returned
+player0's dices: ['DENDRO']
+player0's hand cards: ['Toss-Up', "I Haven't Lost Yet!", 'Toss-Up']
+player0 action round end
+trigger Mushroom Pizza_1, effect is {'effect_type': 'HEAL', 'effect_value': 1}
+trigger Catalyzing Field_0, effect is {'effect_type': 'DMG', 'effect_value': '+1'}
+trigger Oz_0, effect is {'effect_type': 'ELECTRO_DMG', 'effect_value': 1}
+round3 start
+player1's Timmie counter Pigeon change from 2 to 3trigger Timmie_1, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+trigger Timmie_2, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 1}
+trigger Timmie_3, effect is {'effect_type': 'APPEND_DICE', 'effect_value': 'OMNI'}
+player0's dices: ['PYRO', 'PYRO', 'OMNI', 'DENDRO', 'HYDRO', 'CRYO', 'GEO', 'CRYO']
+player1's dices: ['OMNI', 'PYRO', 'PYRO', 'CRYO', 'HYDRO', 'ANEMO', 'OMNI', 'CRYO', 'PYRO']
+player1's reroll index: [1, 2, 4, 5, 8]
+player1's dices: ['OMNI', 'CRYO', 'OMNI', 'CRYO', 'PYRO', 'ELECTRO', 'CRYO', 'ANEMO', 'CRYO']
+player0's reroll index: [0, 1, 3, 4, 5, 6, 7]
+player0's dices: ['OMNI', 'DENDRO', 'DENDRO', 'HYDRO', 'OMNI', 'CRYO', 'ANEMO', 'PYRO']

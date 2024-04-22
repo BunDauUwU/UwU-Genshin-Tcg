@@ -1,0 +1,41 @@
+seed: 1713283589.9035785
+player0's characters: ['Klee', 'Mona', 'Xingqiu']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ['Katheryne', 'Send Off', 'Katheryne', 'Sweet Madame', 'Crimson Witch of Flames']
+player1's hand cards: ['Chang the Ninth', 'Toss-Up', 'Paimon', 'Paimon', 'Paimon']
+player1's redraw index: [3, 4]
+player0's redraw index: [2]
+player0's hand cards: ['Katheryne', 'Send Off', 'Sweet Madame', 'Crimson Witch of Flames', "Adeptus' Temptation"]
+player1's hand cards: ['Chang the Ninth', 'Toss-Up', 'Paimon', 'Blizzard Strayer', 'Sacrificial Sword']
+player0's Mona use skill Illusory Torrent
+player0 choose active character Xingqiu
+player1 choose active character Xiangling
+player1 first
+round1 start
+player0's dices: ['GEO', 'DENDRO', 'PYRO', 'ELECTRO', 'GEO', 'ANEMO', 'DENDRO', 'HYDRO']
+player1's dices: ['GEO', 'DENDRO', 'DENDRO', 'ANEMO', 'DENDRO', 'ELECTRO', 'OMNI', 'HYDRO']
+player0's reroll index: [0, 1, 2, 3, 4, 5, 6]
+player0's dices: ['HYDRO', 'ANEMO', 'CRYO', 'PYRO', 'GEO', 'OMNI', 'PYRO', 'GEO']
+player1's reroll index: [0, 1, 2, 3, 4, 5, 7]
+player1's dices: ['OMNI', 'ANEMO', 'PYRO', 'ELECTRO', 'ELECTRO', 'GEO', 'CRYO', 'HYDRO']
+player1 play card Blizzard Strayer
+player1's dices: ['ANEMO', 'PYRO', 'GEO', 'CRYO', 'HYDRO']
+player1's hand cards: ['Chang the Ninth', 'Toss-Up', 'Paimon', 'Sacrificial Sword']
+player1 play card Toss-Up
+player1's dices: ['ANEMO', 'PYRO', 'GEO', 'CRYO', 'HYDRO']
+player1's hand cards: ['Chang the Ninth', 'Paimon', 'Sacrificial Sword']
+player1's reroll index: [0, 2, 3, 4]
+player1's dices: ['PYRO', 'ELECTRO', 'ELECTRO', 'GEO', 'ELECTRO']
+player1's reroll index: [1, 2, 3, 4]
+player1's dices: ['PYRO', 'OMNI', 'OMNI', 'ELECTRO', 'PYRO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player1 play card Chang the Ninth
+player1's dices: ['PYRO', 'OMNI', 'OMNI', 'ELECTRO', 'PYRO']
+player1's hand cards: ['Paimon', 'Sacrificial Sword']
+player1's Xiangling use skill Guoba Attack
+player0 play card Crimson Witch of Flames
+player0's dices: ['HYDRO', 'ANEMO', 'CRYO', 'PYRO', 'PYRO']
+player0's hand cards: ['Katheryne', 'Send Off', 'Sweet Madame', "Adeptus' Temptation"]
+player0 play card Send Off
+player0's dices: ['HYDRO', 'PYRO', 'PYRO']
+player0's hand cards: ['Katheryne', 'Sweet Madame', "Adeptus' Temptation"]

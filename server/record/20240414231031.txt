@@ -1,0 +1,84 @@
+seed: 1713111031.894638
+player0's characters: ['Fischl', 'Collei', 'Keqing']
+player1's characters: ['Mona', 'Ganyu', 'Keqing']
+player0's hand cards: ['Favonius Cathedral', 'Katheryne', 'Toss-Up', 'Parametric Transformer', 'Leave It to Me!']
+player1's hand cards: ['Jade Chamber', 'Lotus Flower Crisp', 'Strategize', 'Strategize', 'Favonius Cathedral']
+player0's redraw index: []
+player1's redraw index: []
+player0's hand cards: ['Favonius Cathedral', 'Katheryne', 'Toss-Up', 'Parametric Transformer', 'Leave It to Me!']
+player1's hand cards: ['Jade Chamber', 'Lotus Flower Crisp', 'Strategize', 'Strategize', 'Favonius Cathedral']
+player1's Mona use skill Illusory Torrent
+player0 choose active character Fischl
+player1 choose active character Mona
+player0 first
+round1 start
+player0's dices: ['HYDRO', 'DENDRO', 'GEO', 'CRYO', 'ELECTRO', 'OMNI', 'OMNI', 'OMNI']
+player1's dices: ['CRYO', 'HYDRO', 'PYRO', 'GEO', 'DENDRO', 'GEO', 'GEO', 'ELECTRO']
+player0's reroll index: [0, 1, 2, 3]
+player0's dices: ['ELECTRO', 'OMNI', 'OMNI', 'OMNI', 'OMNI', 'ANEMO', 'HYDRO', 'ANEMO']
+player1's reroll index: [0, 2, 3, 4, 5, 6, 7]
+player1's dices: ['HYDRO', 'ANEMO', 'GEO', 'CRYO', 'DENDRO', 'CRYO', 'DENDRO', 'HYDRO']
+player0 play card Katheryne
+player0's dices: ['ELECTRO', 'OMNI', 'OMNI', 'OMNI', 'OMNI', 'ANEMO']
+player0's hand cards: ['Favonius Cathedral', 'Toss-Up', 'Parametric Transformer', 'Leave It to Me!']
+player0 play card Favonius Cathedral
+player0's dices: ['ELECTRO', 'OMNI', 'OMNI', 'OMNI']
+player0's hand cards: ['Toss-Up', 'Parametric Transformer', 'Leave It to Me!']
+player0 play card Toss-Up
+player0's dices: ['ELECTRO', 'OMNI', 'OMNI', 'OMNI']
+player0's hand cards: ['Parametric Transformer', 'Leave It to Me!']
+player0's reroll index: []
+player0's dices: ['ELECTRO', 'OMNI', 'OMNI', 'OMNI']
+player0's reroll index: []
+player0's dices: ['ELECTRO', 'OMNI', 'OMNI', 'OMNI']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0's Fischl use skill Nightrider
+player1 play card Favonius Cathedral
+player1's dices: ['HYDRO', 'ANEMO', 'GEO', 'CRYO', 'CRYO', 'HYDRO']
+player1's hand cards: ['Jade Chamber', 'Lotus Flower Crisp', 'Strategize', 'Strategize']
+player1 action element_tuning, use card Strategize
+player1's dices: ['HYDRO', 'GEO', 'CRYO', 'CRYO', 'HYDRO', 'HYDRO']
+player1's hand cards: ['Jade Chamber', 'Lotus Flower Crisp', 'Strategize']
+player1 play card Jade Chamber
+player1's dices: ['HYDRO', 'CRYO', 'CRYO', 'HYDRO', 'HYDRO']
+player1's hand cards: ['Lotus Flower Crisp', 'Strategize']
+player1's Mona use skill Mirror Reflection of Doom
+player0 play card Leave It to Me!
+player0's dices: ['OMNI']
+player0's hand cards: ['Parametric Transformer']
+trigger Leave It to Me!_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player0 change character from Fischl to Collei, it's fast action
+player0 action round end
+trigger Illusory Torrent_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player1 change character from Mona to Ganyu, it's fast action
+player1 action round end
+trigger Reflection_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+trigger Oz_0, effect is {'effect_type': 'ELECTRO_DMG', 'effect_value': 1}
+trigger Favonius Cathedral_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+trigger Reflection_1, effect is {'effect_type': 'HYDRO_DMG', 'effect_value': 1}
+trigger Favonius Cathedral_0, effect is {'effect_type': 'HEAL', 'effect_value': 2}
+round2 start
+player0's dices: ['DENDRO', 'DENDRO', 'CRYO', 'GEO', 'ELECTRO', 'ANEMO', 'PYRO', 'CRYO']
+player1's dices: ['ELECTRO', 'CRYO', 'DENDRO', 'PYRO', 'OMNI', 'GEO', 'PYRO', 'ELECTRO']
+player0's reroll index: [2, 3, 4, 5, 6, 7]
+player0's dices: ['DENDRO', 'DENDRO', 'GEO', 'PYRO', 'PYRO', 'GEO', 'CRYO', 'GEO']
+player1's reroll index: [0, 2, 3, 5, 6, 7]
+player1's dices: ['CRYO', 'OMNI', 'ANEMO', 'ANEMO', 'OMNI', 'HYDRO', 'GEO', 'ELECTRO']
+player0 play card Toss-Up
+player0's dices: ['DENDRO', 'DENDRO', 'GEO', 'PYRO', 'PYRO', 'GEO', 'CRYO', 'GEO']
+player0's hand cards: ['Parametric Transformer', 'Changing Shifts']
+player0's reroll index: [2, 3, 4, 5, 6, 7]
+player0's dices: ['DENDRO', 'DENDRO', 'OMNI', 'ELECTRO', 'PYRO', 'GEO', 'PYRO', 'GEO']
+player0's reroll index: [3, 4, 5, 6, 7]
+player0's dices: ['DENDRO', 'DENDRO', 'OMNI', 'ANEMO', 'OMNI', 'GEO', 'GEO', 'PYRO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0's Collei use skill Floral Brush
+player1 play card The Bestest Travel Companion!
+player1's dices: ['CRYO', 'OMNI', 'ANEMO', 'OMNI', 'HYDRO', 'ELECTRO']
+player1's hand cards: ['Lotus Flower Crisp', 'Strategize', "I Haven't Lost Yet!"]
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player1 play card Lotus Flower Crisp
+player1's dices: ['CRYO', 'OMNI', 'OMNI', 'HYDRO', 'ELECTRO', 'OMNI', 'OMNI']
+player1's hand cards: ['Strategize', "I Haven't Lost Yet!"]
+player1's Ganyu use skill Frostflake Arrow
+player1's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}

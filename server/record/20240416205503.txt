@@ -1,0 +1,22 @@
+seed: 1713275703.1282568
+player0's characters: ['Ganyu', 'Diona', 'Sucrose']
+player1's characters: ['Ganyu', 'Diona', 'Sucrose']
+player0's hand cards: ["Calx's Arts", "Guardian's Oath", 'Skyward Harp', 'Lotus Flower Crisp', 'Toss-Up']
+player1's hand cards: ['Strategize', 'Minty Meat Rolls', "Adeptus' Temptation", 'Skyward Harp', "Adeptus' Temptation"]
+player1's redraw index: [1, 2, 4]
+player0's redraw index: [1, 3]
+player0's hand cards: ["Calx's Arts", 'Skyward Harp', 'Toss-Up', 'Lotus Flower Crisp', 'Send Off']
+player1's hand cards: ['Strategize', 'Skyward Harp', 'Jueyun Guoba', "Blessing of the Divine Relic's Installation", 'Lotus Flower Crisp']
+player0 choose active character Sucrose
+player1 choose active character Ganyu
+player0 first
+round1 start
+player0's dices: ['DENDRO', 'GEO', 'CRYO', 'CRYO', 'ANEMO', 'ELECTRO', 'ANEMO', 'ANEMO']
+player1's dices: ['ANEMO', 'HYDRO', 'OMNI', 'PYRO', 'ELECTRO', 'ELECTRO', 'ELECTRO', 'ANEMO']
+player0's reroll index: [0, 1, 2, 3, 5]
+player0's dices: ['ANEMO', 'ANEMO', 'ANEMO', 'DENDRO', 'ANEMO', 'GEO', 'ANEMO', 'ANEMO']
+player1's reroll index: [0, 1, 3, 4, 5, 6, 7]
+player1's dices: ['OMNI', 'PYRO', 'PYRO', 'PYRO', 'ELECTRO', 'ELECTRO', 'GEO', 'DENDRO']
+player0 play card Send Off
+player0's dices: ['ANEMO', 'ANEMO', 'ANEMO', 'ANEMO', 'ANEMO', 'ANEMO']
+player0's hand cards: ["Calx's Arts", 'Skyward Harp', 'Toss-Up', 'Lotus Flower Crisp']

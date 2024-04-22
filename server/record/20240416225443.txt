@@ -1,0 +1,50 @@
+seed: 1713282883.2867723
+player0's characters: ['Klee', 'Mona', 'Xingqiu']
+player1's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player0's hand cards: ["Calx's Arts", 'Leave It to Me!', 'The Bestest Travel Companion!', 'Skyward Atlas', 'Crimson Witch of Flames']
+player1's hand cards: ['Changing Shifts', 'Leave It to Me!', 'Paimon', 'Liben', 'Dawn Winery']
+player1's redraw index: []
+player0's redraw index: []
+player0's hand cards: ["Calx's Arts", 'Leave It to Me!', 'The Bestest Travel Companion!', 'Skyward Atlas', 'Crimson Witch of Flames']
+player1's hand cards: ['Changing Shifts', 'Leave It to Me!', 'Paimon', 'Liben', 'Dawn Winery']
+player0's Mona use skill Illusory Torrent
+player0 choose active character Xingqiu
+player1 choose active character Bennett
+player1 first
+round1 start
+player0's dices: ['CRYO', 'ELECTRO', 'GEO', 'HYDRO', 'DENDRO', 'ELECTRO', 'ANEMO', 'OMNI']
+player1's dices: ['HYDRO', 'OMNI', 'OMNI', 'ELECTRO', 'GEO', 'OMNI', 'DENDRO', 'OMNI']
+player1's reroll index: [0, 3, 4, 6]
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'OMNI', 'CRYO', 'DENDRO', 'ELECTRO', 'CRYO']
+player0's reroll index: [0, 1, 2, 4, 5, 6]
+player0's dices: ['HYDRO', 'OMNI', 'PYRO', 'HYDRO', 'GEO', 'ELECTRO', 'OMNI', 'OMNI']
+player1 play card Dawn Winery
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'CRYO', 'DENDRO', 'CRYO']
+player1's hand cards: ['Changing Shifts', 'Leave It to Me!', 'Paimon', 'Liben']
+player1 play card Liben
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'CRYO', 'DENDRO', 'CRYO']
+player1's hand cards: ['Changing Shifts', 'Leave It to Me!', 'Paimon']
+player1 play card Paimon
+player1's dices: ['OMNI', 'DENDRO', 'CRYO']
+player1's hand cards: ['Changing Shifts', 'Leave It to Me!']
+player1's Bennett use skill Strike of Fortune
+player0 play card The Bestest Travel Companion!
+player0's dices: ['HYDRO', 'OMNI', 'PYRO', 'HYDRO', 'OMNI', 'OMNI']
+player0's hand cards: ["Calx's Arts", 'Leave It to Me!', 'Skyward Atlas', 'Crimson Witch of Flames']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0 play card Crimson Witch of Flames
+player0's dices: ['PYRO', 'OMNI', 'OMNI', 'OMNI', 'OMNI']
+player0's hand cards: ["Calx's Arts", 'Leave It to Me!', 'Skyward Atlas']
+player0's Xingqiu use skill Fatal Rainscreen
+trigger Fatal Rainscreen_0, effect is {'effect_type': 'APPLICATION', 'effect_value': 'HYDRO'}
+player1 play card Changing Shifts
+player1's dices: []
+player1's hand cards: ['Leave It to Me!']
+player1 play card Leave It to Me!
+player1's dices: []
+player1's hand cards: []
+trigger Changing Shifts_0, effect is {'effect_type': 'CHANGE_COST', 'effect_value': '-1'}
+trigger Leave It to Me!_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player1 change character from Bennett to Xiangling, it's fast action
+player1 action round end
+player0 action round end

@@ -1,0 +1,96 @@
+seed: 1713315099.5354133
+player0's characters: ['Ganyu', 'Xiangling', 'Bennett']
+player1's characters: ['Klee', 'Mona', 'Xingqiu']
+player0's hand cards: ['When the Crane Returned', "Broken Rime's Echo", 'Timaeus', 'The Bestest Travel Companion!', 'Jueyun Guoba']
+player1's hand cards: ['Strategize', 'Timaeus', "Adeptus' Temptation", 'When the Crane Returned', 'Strategize']
+player0's redraw index: []
+player1's redraw index: []
+player0's hand cards: ['When the Crane Returned', "Broken Rime's Echo", 'Timaeus', 'The Bestest Travel Companion!', 'Jueyun Guoba']
+player1's hand cards: ['Strategize', 'Timaeus', "Adeptus' Temptation", 'When the Crane Returned', 'Strategize']
+player1's Mona use skill Illusory Torrent
+player0 choose active character Bennett
+player1 choose active character Xingqiu
+player1 first
+round1 start
+player0's dices: ['OMNI', 'DENDRO', 'DENDRO', 'DENDRO', 'ANEMO', 'ANEMO', 'PYRO', 'HYDRO']
+player1's dices: ['HYDRO', 'HYDRO', 'CRYO', 'GEO', 'ANEMO', 'DENDRO', 'ANEMO', 'ELECTRO']
+player0's reroll index: [1, 2, 3, 4, 5, 7]
+player0's dices: ['OMNI', 'PYRO', 'CRYO', 'GEO', 'DENDRO', 'GEO', 'GEO', 'OMNI']
+player1's reroll index: [2, 3, 4, 5, 6, 7]
+player1's dices: ['HYDRO', 'HYDRO', 'HYDRO', 'ANEMO', 'PYRO', 'DENDRO', 'ELECTRO', 'PYRO']
+player1 play card Timaeus
+player1's dices: ['HYDRO', 'HYDRO', 'HYDRO', 'ANEMO', 'DENDRO', 'ELECTRO']
+player1's hand cards: ['Strategize', "Adeptus' Temptation", 'When the Crane Returned', 'Strategize']
+player1's Timaeus counter Transmutation Materials change from 0 to 2trigger Timaeus_0, effect is {'effect_type': 'Transmutation Materials', 'effect_value': '+2'}
+player1 play card Strategize
+player1's dices: ['HYDRO', 'HYDRO', 'HYDRO', 'ANEMO', 'DENDRO']
+player1's hand cards: ["Adeptus' Temptation", 'When the Crane Returned', 'Strategize']
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player1 play card Timmie
+player1's dices: ['HYDRO', 'HYDRO', 'HYDRO', 'ANEMO', 'DENDRO']
+player1's hand cards: ["Adeptus' Temptation", 'When the Crane Returned', 'Strategize', 'Katheryne']
+player1's Timmie counter Pigeon change from 0 to 1trigger Timmie_0, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player1 play card Strategize
+player1's dices: ['HYDRO', 'HYDRO', 'HYDRO', 'ANEMO']
+player1's hand cards: ["Adeptus' Temptation", 'When the Crane Returned', 'Katheryne']
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player1's Xingqiu use skill Fatal Rainscreen
+trigger Fatal Rainscreen_0, effect is {'effect_type': 'APPLICATION', 'effect_value': 'HYDRO'}
+player0 play card The Bestest Travel Companion!
+player0's dices: ['OMNI', 'PYRO', 'CRYO', 'GEO', 'GEO', 'OMNI']
+player0's hand cards: ['When the Crane Returned', "Broken Rime's Echo", 'Timaeus', 'Jueyun Guoba']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0 play card Broken Rime's Echo
+player0's dices: ['OMNI', 'PYRO', 'CRYO', 'OMNI', 'OMNI', 'OMNI']
+player0's hand cards: ['When the Crane Returned', 'Timaeus', 'Jueyun Guoba']
+player0 play card Timaeus
+player0's dices: ['PYRO', 'OMNI', 'OMNI', 'OMNI']
+player0's hand cards: ['When the Crane Returned', 'Jueyun Guoba']
+player0's Timaeus counter Transmutation Materials change from 0 to 2trigger Timaeus_0, effect is {'effect_type': 'Transmutation Materials', 'effect_value': '+2'}
+player0's Bennett use skill Passion Overload
+trigger Rain Sword_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+player1 play card When the Crane Returned
+player1's dices: []
+player1's hand cards: ["Adeptus' Temptation", 'Katheryne', 'Changing Shifts', 'Changing Shifts']
+player1 action round end
+player0 play card When the Crane Returned
+player0's dices: []
+player0's hand cards: ['Jueyun Guoba']
+player0 play card Jueyun Guoba
+player0's dices: []
+player0's hand cards: []
+player0 action round end
+player1's Timaeus counter Transmutation Materials change from 2 to 3trigger Timaeus_1, effect is {'effect_type': 'Transmutation Materials', 'effect_value': '+1'}
+player0's Timaeus counter Transmutation Materials change from 2 to 3trigger Timaeus_1, effect is {'effect_type': 'Transmutation Materials', 'effect_value': '+1'}
+round2 start
+player1's Timmie counter Pigeon change from 1 to 2trigger Timmie_1, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player0's dices: ['ANEMO', 'HYDRO', 'GEO', 'HYDRO', 'ELECTRO', 'ANEMO', 'PYRO', 'ELECTRO']
+player1's dices: ['DENDRO', 'PYRO', 'OMNI', 'HYDRO', 'ANEMO', 'CRYO', 'DENDRO', 'ANEMO']
+player0's reroll index: [0, 1, 2, 3, 4, 5, 7]
+player0's dices: ['PYRO', 'HYDRO', 'ELECTRO', 'PYRO', 'ELECTRO', 'GEO', 'OMNI', 'CRYO']
+player1's reroll index: [0, 1, 4, 5, 6, 7]
+player1's dices: ['OMNI', 'HYDRO', 'OMNI', 'ANEMO', 'HYDRO', 'ANEMO', 'ANEMO', 'HYDRO']
+player1 play card The Bestest Travel Companion!
+player1's dices: ['OMNI', 'HYDRO', 'OMNI', 'HYDRO', 'ANEMO', 'HYDRO']
+player1's hand cards: ["Adeptus' Temptation", 'Katheryne', 'Changing Shifts', 'Changing Shifts', 'Skyward Atlas']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player1's Xingqiu use skill Fatal Rainscreen
+trigger Fatal Rainscreen_0, effect is {'effect_type': 'APPLICATION', 'effect_value': 'HYDRO'}
+trigger When the Crane Returned_0, effect is {'effect_type': 'CHANGE_CHARACTER', 'effect_value': 1}
+player0 play card The Bestest Travel Companion!
+player0's dices: ['PYRO', 'ELECTRO', 'PYRO', 'ELECTRO', 'OMNI', 'CRYO']
+player0's hand cards: ['Leave It to Me!']
+trigger The Bestest Travel Companion!_0, effect is {'effect_type': 'APPEND_DICE', 'effect_value': ['OMNI', 'OMNI']}
+player0's Bennett use skill Passion Overload
+trigger Rain Sword_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+trigger When the Crane Returned_0, effect is {'effect_type': 'CHANGE_CHARACTER', 'effect_value': 1}
+player1's Xingqiu use skill Fatal Rainscreen
+trigger Fatal Rainscreen_0, effect is {'effect_type': 'APPLICATION', 'effect_value': 'HYDRO'}
+player0 action element_tuning, use card Leave It to Me!
+player0's dices: ['ELECTRO', 'CRYO', 'OMNI', 'OMNI', 'PYRO']
+player0's hand cards: []
+player0 action round end
+player1 action round end
+player0's Timaeus counter Transmutation Materials change from 3 to 4trigger Timaeus_1, effect is {'effect_type': 'Transmutation Materials', 'effect_value': '+1'}
+player1's Timaeus counter Transmutation Materials change from 3 to 4trigger Timaeus_1, effect is {'effect_type': 'Transmutation Materials', 'effect_value': '+1'}
+round3 start

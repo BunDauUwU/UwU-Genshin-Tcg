@@ -1,0 +1,82 @@
+seed: 1713110195.3242352
+player0's characters: ['Mona', 'Ganyu', 'Keqing']
+player1's characters: ['Fischl', 'Collei', 'Keqing']
+player0's hand cards: ['Katheryne', "Thunder Summoner's Crown", 'Mondstadt Hash Brown', 'Strategize', 'Jade Chamber']
+player1's hand cards: ["I Haven't Lost Yet!", 'Timmie', 'The Bestest Travel Companion!', 'Dawn Winery', 'Katheryne']
+player1's redraw index: []
+player0's redraw index: []
+player0's hand cards: ['Katheryne', "Thunder Summoner's Crown", 'Mondstadt Hash Brown', 'Strategize', 'Jade Chamber']
+player1's hand cards: ["I Haven't Lost Yet!", 'Timmie', 'The Bestest Travel Companion!', 'Dawn Winery', 'Katheryne']
+player0's Mona use skill Illusory Torrent
+player0 choose active character Mona
+player1 choose active character Fischl
+player1 first
+round1 start
+player0's dices: ['ELECTRO', 'ANEMO', 'DENDRO', 'ELECTRO', 'GEO', 'GEO', 'GEO', 'ANEMO']
+player1's dices: ['ANEMO', 'OMNI', 'OMNI', 'OMNI', 'CRYO', 'CRYO', 'CRYO', 'PYRO']
+player1's reroll index: [0, 4, 5, 6, 7]
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'ANEMO', 'ANEMO', 'ELECTRO', 'OMNI', 'PYRO']
+player0's reroll index: [0, 1, 2, 3, 4, 5, 6, 7]
+player0's dices: ['ANEMO', 'OMNI', 'HYDRO', 'HYDRO', 'CRYO', 'CRYO', 'ELECTRO', 'OMNI']
+player1 play card Timmie
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'ANEMO', 'ANEMO', 'ELECTRO', 'OMNI', 'PYRO']
+player1's hand cards: ["I Haven't Lost Yet!", 'The Bestest Travel Companion!', 'Dawn Winery', 'Katheryne']
+player1's Timmie counter Pigeon change from 0 to 1trigger Timmie_0, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player1 play card Katheryne
+player1's dices: ['OMNI', 'OMNI', 'OMNI', 'ANEMO', 'ELECTRO', 'OMNI']
+player1's hand cards: ["I Haven't Lost Yet!", 'The Bestest Travel Companion!', 'Dawn Winery']
+player1's Fischl use skill Nightrider
+player0 play card Katheryne
+player0's dices: ['OMNI', 'HYDRO', 'HYDRO', 'CRYO', 'CRYO', 'OMNI']
+player0's hand cards: ["Thunder Summoner's Crown", 'Mondstadt Hash Brown', 'Strategize', 'Jade Chamber']
+player0 play card Jade Chamber
+player0's dices: ['OMNI', 'HYDRO', 'HYDRO', 'CRYO', 'OMNI']
+player0's hand cards: ["Thunder Summoner's Crown", 'Mondstadt Hash Brown', 'Strategize']
+player0's Mona use skill Mirror Reflection of Doom
+player1 play card Dawn Winery
+player1's dices: ['OMNI']
+player1's hand cards: ["I Haven't Lost Yet!", 'The Bestest Travel Companion!']
+player1 action round end
+player0 play card Mondstadt Hash Brown
+player0's dices: ['OMNI']
+player0's hand cards: ["Thunder Summoner's Crown", 'Strategize']
+player0 action round end
+trigger Reflection_0, effect is {'effect_type': 'HURT', 'effect_value': '-1'}
+trigger Oz_0, effect is {'effect_type': 'ELECTRO_DMG', 'effect_value': 1}
+trigger Reflection_1, effect is {'effect_type': 'HYDRO_DMG', 'effect_value': 1}
+round2 start
+player1's Timmie counter Pigeon change from 1 to 2trigger Timmie_1, effect is {'effect_type': 'Pigeon', 'effect_value': '+1'}
+player0's dices: ['HYDRO', 'GEO', 'HYDRO', 'ELECTRO', 'GEO', 'ANEMO', 'DENDRO', 'ANEMO']
+player1's dices: ['DENDRO', 'CRYO', 'ANEMO', 'ELECTRO', 'ELECTRO', 'OMNI', 'OMNI', 'ANEMO']
+player0's reroll index: [0, 1, 2, 3, 4, 5, 6, 7]
+player0's dices: ['DENDRO', 'OMNI', 'OMNI', 'ANEMO', 'ELECTRO', 'ELECTRO', 'ELECTRO', 'CRYO']
+player1's reroll index: [1, 2, 7]
+player1's dices: ['DENDRO', 'ELECTRO', 'ELECTRO', 'OMNI', 'OMNI', 'DENDRO', 'HYDRO', 'HYDRO']
+trigger Katheryne_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+trigger Dawn Winery_0, effect is {'effect_type': 'CHANGE_COST', 'effect_value': '-1'}
+player1 change character from Fischl to Collei, it's fast action
+player1's Collei use skill Floral Brush
+player0 play card Leave It to Me!
+player0's dices: ['DENDRO', 'OMNI', 'OMNI', 'ANEMO', 'ELECTRO', 'ELECTRO', 'ELECTRO', 'CRYO']
+player0's hand cards: ["Thunder Summoner's Crown", 'Strategize', 'Chang the Ninth']
+trigger Illusory Torrent_0, effect is {'effect_type': 'CHANGE_ACTION', 'effect_value': 'fast'}
+player0 change character from Mona to Ganyu, it's fast action
+player0 play card Chang the Ninth
+player0's dices: ['DENDRO', 'OMNI', 'OMNI', 'ELECTRO', 'ELECTRO', 'ELECTRO', 'CRYO']
+player0's hand cards: ["Thunder Summoner's Crown", 'Strategize']
+player0 action element_tuning, use card Strategize
+player0's dices: ['OMNI', 'OMNI', 'ELECTRO', 'ELECTRO', 'ELECTRO', 'CRYO', 'CRYO']
+player0's hand cards: ["Thunder Summoner's Crown"]
+player0 action element_tuning, use card Thunder Summoner's Crown
+player0's dices: ['OMNI', 'OMNI', 'ELECTRO', 'ELECTRO', 'CRYO', 'CRYO', 'CRYO']
+player0's hand cards: []
+player0's Ganyu use skill Frostflake Arrow
+player0's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player1 change character from Collei to Keqing, it's combat action
+player0 action round end
+player1's Keqing use skill Stellar Restoration
+trigger Catalyzing Field_0, effect is {'effect_type': 'DMG', 'effect_value': '+1'}
+player1 action round end
+trigger Catalyzing Field_0, effect is {'effect_type': 'DMG', 'effect_value': '+1'}
+trigger Oz_0, effect is {'effect_type': 'ELECTRO_DMG', 'effect_value': 1}
+round3 start

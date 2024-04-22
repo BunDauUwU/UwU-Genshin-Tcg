@@ -1,0 +1,15 @@
+seed: 1713492091.4981403
+player0's characters: ['Kuki Shinobu', 'Nahida', 'Xingqiu']
+player1's characters: ['Klee', 'Barbara', 'Mona']
+player0's hand cards: ['Leave It to Me!', 'Changing Shifts', 'Sacrificial Sword', 'Jueyun Guoba', 'Dawn Winery']
+player1's hand cards: ['The Bestest Travel Companion!', 'The Bestest Travel Companion!', 'Changing Shifts', 'Favonius Cathedral', 'Toss-Up']
+player0's redraw index: []
+player1's redraw index: []
+player0's hand cards: ['Leave It to Me!', 'Changing Shifts', 'Sacrificial Sword', 'Jueyun Guoba', 'Dawn Winery']
+player1's hand cards: ['The Bestest Travel Companion!', 'The Bestest Travel Companion!', 'Changing Shifts', 'Favonius Cathedral', 'Toss-Up']
+player1's Mona use skill Illusory Torrent
+player0 choose active character Nahida
+player1 choose active character Mona
+player0 first
+round1 start
+player0's dices: ['OMNI', 'ANEMO', 'OMNI', 'DENDRO', 'DENDRO', 'HYDRO', 'ELECTRO', 'OMNI']

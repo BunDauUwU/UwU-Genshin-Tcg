@@ -1,0 +1,77 @@
+seed: 1713274601.0848584
+player0's characters: ['Ganyu', 'Diona', 'Sucrose']
+player1's characters: ['Ganyu', 'Diona', 'Sucrose']
+player0's hand cards: ['Send Off', 'Sacrificial Bow', 'Minty Meat Rolls', "Blessing of the Divine Relic's Installation", 'Lotus Flower Crisp']
+player1's hand cards: ["Blessing of the Divine Relic's Installation", 'Northern Smoked Chicken', 'Northern Smoked Chicken', 'Northern Smoked Chicken', 'Mushroom Pizza']
+player1's redraw index: [0, 1, 2, 3, 4]
+player0's redraw index: [0, 2, 3, 4]
+player0's hand cards: ['Sacrificial Bow', 'Mushroom Pizza', 'Lotus Flower Crisp', 'Toss-Up', 'Mushroom Pizza']
+player1's hand cards: ["Blessing of the Divine Relic's Installation", 'Strategize', "Guardian's Oath", 'Strategize', 'Raven Bow']
+player0 choose active character Ganyu
+player1 choose active character Sucrose
+player0 first
+round1 start
+player0's dices: ['GEO', 'GEO', 'CRYO', 'OMNI', 'PYRO', 'OMNI', 'DENDRO', 'DENDRO']
+player1's dices: ['OMNI', 'ANEMO', 'ELECTRO', 'PYRO', 'GEO', 'HYDRO', 'HYDRO', 'OMNI']
+player1's reroll index: [2, 3, 4, 5, 6]
+player1's dices: ['OMNI', 'ANEMO', 'OMNI', 'ELECTRO', 'HYDRO', 'ANEMO', 'DENDRO', 'PYRO']
+player0's reroll index: [0, 1, 4, 6, 7]
+player0's dices: ['CRYO', 'OMNI', 'OMNI', 'OMNI', 'HYDRO', 'PYRO', 'ELECTRO', 'PYRO']
+player0 play card Mushroom Pizza
+player0's dices: ['CRYO', 'OMNI', 'OMNI', 'OMNI', 'PYRO', 'ELECTRO', 'PYRO']
+player0's hand cards: ['Sacrificial Bow', 'Mushroom Pizza', 'Lotus Flower Crisp', 'Toss-Up']
+player0 play card Toss-Up
+player0's dices: ['CRYO', 'OMNI', 'OMNI', 'OMNI', 'PYRO', 'ELECTRO', 'PYRO']
+player0's hand cards: ['Sacrificial Bow', 'Mushroom Pizza', 'Lotus Flower Crisp']
+player0's reroll index: [4, 5, 6]
+player0's dices: ['CRYO', 'OMNI', 'OMNI', 'OMNI', 'GEO', 'DENDRO', 'PYRO']
+player0's reroll index: [4, 5, 6]
+player0's dices: ['CRYO', 'OMNI', 'OMNI', 'OMNI', 'HYDRO', 'HYDRO', 'HYDRO']
+trigger Toss-Up_0, effect is {'effect_type': 'REROLL', 'effect_value': 2}
+player0 action element_tuning, use card Lotus Flower Crisp
+player0's dices: ['CRYO', 'OMNI', 'OMNI', 'OMNI', 'HYDRO', 'HYDRO', 'CRYO']
+player0's hand cards: ['Sacrificial Bow', 'Mushroom Pizza']
+player0's Ganyu use skill Frostflake Arrow
+player0's Ganyu counter Frostflake Arrow change from 0 to 1trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player1 play card Strategize
+player1's dices: ['OMNI', 'ANEMO', 'OMNI', 'ELECTRO', 'ANEMO', 'DENDRO', 'PYRO']
+player1's hand cards: ["Blessing of the Divine Relic's Installation", 'Strategize', "Guardian's Oath", 'Raven Bow']
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player1 play card Strategize
+player1's dices: ['OMNI', 'ANEMO', 'OMNI', 'ELECTRO', 'ANEMO', 'DENDRO']
+player1's hand cards: ["Blessing of the Divine Relic's Installation", "Guardian's Oath", 'Raven Bow', "Guardian's Oath", 'Skyward Harp']
+trigger Strategize_0, effect is {'effect_type': 'DRAW_CARD', 'effect_value': 2}
+player1 action element_tuning, use card Guardian's Oath
+player1's dices: ['OMNI', 'ANEMO', 'OMNI', 'ELECTRO', 'ANEMO', 'ANEMO']
+player1's hand cards: ["Blessing of the Divine Relic's Installation", 'Raven Bow', "Guardian's Oath", 'Skyward Harp', 'Minty Meat Rolls', 'Lotus Flower Crisp']
+player1's Sucrose use skill Astable Anemohypostasis Creation - 6308
+player0 action round end
+player1 action element_tuning, use card Guardian's Oath
+player1's dices: ['OMNI', 'OMNI', 'ANEMO']
+player1's hand cards: ["Blessing of the Divine Relic's Installation", 'Raven Bow', 'Skyward Harp', 'Minty Meat Rolls', 'Lotus Flower Crisp']
+player1's Sucrose use skill Astable Anemohypostasis Creation - 6308
+player1 action round end
+trigger Mushroom Pizza_1, effect is {'effect_type': 'HEAL', 'effect_value': 1}
+round2 start
+player0's dices: ['PYRO', 'PYRO', 'PYRO', 'DENDRO', 'ELECTRO', 'PYRO', 'OMNI', 'ELECTRO']
+player1's dices: ['OMNI', 'OMNI', 'CRYO', 'GEO', 'CRYO', 'ELECTRO', 'HYDRO', 'DENDRO']
+player0's reroll index: [0, 1, 2, 3, 4, 5, 7]
+player0's dices: ['OMNI', 'OMNI', 'DENDRO', 'PYRO', 'PYRO', 'GEO', 'CRYO', 'ELECTRO']
+player1's reroll index: [3, 5, 6, 7]
+player1's dices: ['OMNI', 'OMNI', 'CRYO', 'CRYO', 'DENDRO', 'ELECTRO', 'HYDRO', 'HYDRO']
+player0 action element_tuning, use card Lotus Flower Crisp
+player0's dices: ['OMNI', 'OMNI', 'DENDRO', 'PYRO', 'PYRO', 'CRYO', 'ELECTRO', 'CRYO']
+player0's hand cards: ['Sacrificial Bow', 'Mushroom Pizza', "Adeptus' Temptation"]
+player0 play card Adeptus' Temptation
+player0's dices: ['OMNI', 'OMNI', 'PYRO', 'PYRO', 'CRYO', 'CRYO']
+player0's hand cards: ['Sacrificial Bow', 'Mushroom Pizza']
+player0 action element_tuning, use card Mushroom Pizza
+player0's dices: ['OMNI', 'OMNI', 'PYRO', 'CRYO', 'CRYO', 'CRYO']
+player0's hand cards: ['Sacrificial Bow']
+player0's Ganyu use skill Frostflake Arrow
+player0's Ganyu counter Frostflake Arrow change from 1 to 2trigger Frostflake Arrow_0, effect is {'effect_type': 'Frostflake Arrow', 'effect_value': '+1'}
+player1 change character from Sucrose to Diona, it's combat action
+player0 action round end
+player1 play card Calx's Arts
+player1's dices: ['OMNI', 'OMNI', 'CRYO', 'CRYO', 'DENDRO', 'HYDRO']
+player1's hand cards: ["Blessing of the Divine Relic's Installation", 'Raven Bow', 'Skyward Harp', 'Minty Meat Rolls', 'Lotus Flower Crisp', 'Send Off']
